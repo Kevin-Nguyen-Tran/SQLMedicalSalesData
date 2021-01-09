@@ -1,0 +1,2824 @@
+id,order_num,product_line,status
+1,10107,cgm systems,Shipped
+2,10121,cgm systems,Shipped
+3,10134,cgm systems,Shipped
+4,10145,cgm systems,Shipped
+5,10159,cgm systems,Shipped
+6,10168,cgm systems,Shipped
+7,10180,cgm systems,Shipped
+8,10188,cgm systems,Shipped
+9,10201,cgm systems,Shipped
+10,10211,cgm systems,Shipped
+11,10223,cgm systems,Shipped
+12,10237,cgm systems,Shipped
+13,10251,cgm systems,Shipped
+14,10263,cgm systems,Shipped
+15,10275,cgm systems,Shipped
+16,10285,cgm systems,Shipped
+17,10299,cgm systems,Shipped
+18,10309,cgm systems,Shipped
+19,10318,cgm systems,Shipped
+20,10329,cgm systems,Shipped
+21,10341,cgm systems,Shipped
+22,10361,cgm systems,Shipped
+23,10375,cgm systems,Shipped
+24,10388,cgm systems,Shipped
+25,10403,cgm systems,Shipped
+26,10417,cgm systems,Disputed
+27,10103,wound care supplies,Shipped
+28,10112,wound care supplies,Shipped
+29,10126,wound care supplies,Shipped
+30,10140,wound care supplies,Shipped
+31,10150,wound care supplies,Shipped
+32,10163,wound care supplies,Shipped
+33,10174,wound care supplies,Shipped
+34,10183,wound care supplies,Shipped
+35,10194,wound care supplies,Shipped
+36,10206,wound care supplies,Shipped
+37,10215,wound care supplies,Shipped
+38,10228,wound care supplies,Shipped
+39,10245,wound care supplies,Shipped
+40,10258,wound care supplies,Shipped
+41,10270,wound care supplies,Shipped
+42,10280,wound care supplies,Shipped
+43,10291,wound care supplies,Shipped
+44,10304,wound care supplies,Shipped
+45,10312,wound care supplies,Shipped
+46,10322,wound care supplies,Shipped
+47,10333,wound care supplies,Shipped
+48,10347,wound care supplies,Shipped
+49,10357,wound care supplies,Shipped
+50,10369,wound care supplies,Shipped
+51,10381,wound care supplies,Shipped
+52,10391,wound care supplies,Shipped
+53,10411,wound care supplies,Shipped
+54,10424,wound care supplies,In Process
+55,10107,cgm systems,Shipped
+56,10120,cgm systems,Shipped
+57,10134,cgm systems,Shipped
+58,10145,cgm systems,Shipped
+59,10159,cgm systems,Shipped
+60,10168,cgm systems,Shipped
+61,10180,cgm systems,Shipped
+62,10188,cgm systems,Shipped
+63,10201,cgm systems,Shipped
+64,10210,cgm systems,Shipped
+65,10223,cgm systems,Shipped
+66,10236,cgm systems,Shipped
+67,10251,cgm systems,Shipped
+68,10263,cgm systems,Shipped
+69,10275,cgm systems,Shipped
+70,10285,cgm systems,Shipped
+71,10298,cgm systems,Shipped
+72,10308,cgm systems,Shipped
+73,10318,cgm systems,Shipped
+74,10329,cgm systems,Shipped
+75,10339,cgm systems,Shipped
+76,10361,cgm systems,Shipped
+77,10374,cgm systems,Shipped
+78,10388,cgm systems,Shipped
+79,10402,cgm systems,Shipped
+80,10417,cgm systems,Disputed
+81,10107,cgm systems,Shipped
+82,10120,cgm systems,Shipped
+83,10134,cgm systems,Shipped
+84,10145,cgm systems,Shipped
+85,10159,cgm systems,Shipped
+86,10168,cgm systems,Shipped
+87,10180,cgm systems,Shipped
+88,10188,cgm systems,Shipped
+89,10201,cgm systems,Shipped
+90,10210,cgm systems,Shipped
+91,10223,cgm systems,Shipped
+92,10237,cgm systems,Shipped
+93,10251,cgm systems,Shipped
+94,10263,cgm systems,Shipped
+95,10275,cgm systems,Shipped
+96,10285,cgm systems,Shipped
+97,10299,cgm systems,Shipped
+98,10308,cgm systems,Shipped
+99,10318,cgm systems,Shipped
+100,10329,cgm systems,Shipped
+101,10339,cgm systems,Shipped
+102,10362,cgm systems,Shipped
+103,10374,cgm systems,Shipped
+104,10388,cgm systems,Shipped
+105,10403,cgm systems,Shipped
+106,10417,cgm systems,Disputed
+107,10105,wound care supplies,Shipped
+108,10119,wound care supplies,Shipped
+109,10129,wound care supplies,Shipped
+110,10143,wound care supplies,Shipped
+111,10155,wound care supplies,Shipped
+112,10167,wound care supplies,Cancelled
+113,10178,wound care supplies,Shipped
+114,10186,wound care supplies,Shipped
+115,10197,wound care supplies,Shipped
+116,10209,wound care supplies,Shipped
+117,10222,wound care supplies,Shipped
+118,10248,wound care supplies,Cancelled
+119,10261,wound care supplies,Shipped
+120,10273,wound care supplies,Shipped
+121,10283,wound care supplies,Shipped
+122,10295,wound care supplies,Shipped
+123,10307,wound care supplies,Shipped
+124,10316,wound care supplies,Shipped
+125,10325,wound care supplies,Shipped
+126,10337,wound care supplies,Shipped
+127,10350,wound care supplies,Shipped
+128,10359,wound care supplies,Shipped
+129,10373,wound care supplies,Shipped
+130,10384,wound care supplies,Shipped
+131,10395,wound care supplies,Shipped
+132,10400,wound care supplies,Shipped
+133,10414,wound care supplies,On Hold
+134,10103,wound care supplies,Shipped
+135,10114,wound care supplies,Shipped
+136,10126,wound care supplies,Shipped
+137,10140,wound care supplies,Shipped
+138,10150,wound care supplies,Shipped
+139,10164,wound care supplies,Resolved
+140,10175,wound care supplies,Shipped
+141,10183,wound care supplies,Shipped
+142,10194,wound care supplies,Shipped
+143,10207,wound care supplies,Shipped
+144,10217,wound care supplies,Shipped
+145,10229,wound care supplies,Shipped
+146,10245,wound care supplies,Shipped
+147,10259,wound care supplies,Shipped
+148,10270,wound care supplies,Shipped
+149,10281,wound care supplies,Shipped
+150,10291,wound care supplies,Shipped
+151,10305,wound care supplies,Shipped
+152,10313,wound care supplies,Shipped
+153,10322,wound care supplies,Shipped
+154,10334,wound care supplies,On Hold
+155,10347,wound care supplies,Shipped
+156,10357,wound care supplies,Shipped
+157,10370,wound care supplies,Shipped
+158,10381,wound care supplies,Shipped
+159,10391,wound care supplies,Shipped
+160,10411,wound care supplies,Shipped
+161,10425,wound care supplies,In Process
+162,10108,wound care supplies,Shipped
+163,10122,wound care supplies,Shipped
+164,10135,wound care supplies,Shipped
+165,10147,wound care supplies,Shipped
+166,10159,wound care supplies,Shipped
+167,10169,wound care supplies,Shipped
+168,10181,wound care supplies,Shipped
+169,10191,wound care supplies,Shipped
+170,10203,wound care supplies,Shipped
+171,10211,wound care supplies,Shipped
+172,10225,wound care supplies,Shipped
+173,10238,wound care supplies,Shipped
+174,10253,wound care supplies,Cancelled
+175,10266,wound care supplies,Shipped
+176,10276,wound care supplies,Shipped
+177,10287,wound care supplies,Shipped
+178,10300,wound care supplies,Shipped
+179,10310,wound care supplies,Shipped
+180,10320,wound care supplies,Shipped
+181,10329,wound care supplies,Shipped
+182,10341,wound care supplies,Shipped
+183,10363,wound care supplies,Shipped
+184,10375,wound care supplies,Shipped
+185,10389,wound care supplies,Shipped
+186,10419,wound care supplies,Shipped
+187,10105,wound care supplies,Shipped
+188,10117,wound care supplies,Shipped
+189,10127,wound care supplies,Shipped
+190,10142,wound care supplies,Shipped
+191,10153,wound care supplies,Shipped
+192,10165,wound care supplies,Shipped
+193,10176,wound care supplies,Shipped
+194,10185,wound care supplies,Shipped
+195,10196,wound care supplies,Shipped
+196,10208,wound care supplies,Shipped
+197,10220,wound care supplies,Shipped
+198,10231,wound care supplies,Shipped
+199,10247,wound care supplies,Shipped
+200,10272,wound care supplies,Shipped
+201,10282,wound care supplies,Shipped
+202,10293,wound care supplies,Shipped
+203,10306,wound care supplies,Shipped
+204,10314,wound care supplies,Shipped
+205,10325,wound care supplies,Shipped
+206,10336,wound care supplies,Shipped
+207,10348,wound care supplies,Shipped
+208,10359,wound care supplies,Shipped
+209,10371,wound care supplies,Shipped
+210,10382,wound care supplies,Shipped
+211,10395,wound care supplies,Shipped
+212,10413,wound care supplies,Shipped
+213,10103,ostomy supplies,Shipped
+214,10113,ostomy supplies,Shipped
+215,10126,ostomy supplies,Shipped
+216,10140,ostomy supplies,Shipped
+217,10150,ostomy supplies,Shipped
+218,10164,ostomy supplies,Resolved
+219,10174,ostomy supplies,Shipped
+220,10183,ostomy supplies,Shipped
+221,10194,ostomy supplies,Shipped
+222,10206,ostomy supplies,Shipped
+223,10216,ostomy supplies,Shipped
+224,10229,ostomy supplies,Shipped
+225,10245,ostomy supplies,Shipped
+226,10258,ostomy supplies,Shipped
+227,10270,ostomy supplies,Shipped
+228,10281,ostomy supplies,Shipped
+229,10291,ostomy supplies,Shipped
+230,10304,ostomy supplies,Shipped
+231,10313,ostomy supplies,Shipped
+232,10322,ostomy supplies,Shipped
+233,10333,ostomy supplies,Shipped
+234,10347,ostomy supplies,Shipped
+235,10357,ostomy supplies,Shipped
+236,10370,ostomy supplies,Shipped
+237,10381,ostomy supplies,Shipped
+238,10391,ostomy supplies,Shipped
+239,10411,ostomy supplies,Shipped
+240,10424,ostomy supplies,In Process
+241,10107,cgm systems,Shipped
+242,10121,cgm systems,Shipped
+243,10134,cgm systems,Shipped
+244,10145,cgm systems,Shipped
+245,10159,cgm systems,Shipped
+246,10169,cgm systems,Shipped
+247,10180,cgm systems,Shipped
+248,10189,cgm systems,Shipped
+249,10201,cgm systems,Shipped
+250,10211,cgm systems,Shipped
+251,10224,cgm systems,Shipped
+252,10237,cgm systems,Shipped
+253,10251,cgm systems,Shipped
+254,10263,cgm systems,Shipped
+255,10276,cgm systems,Shipped
+256,10285,cgm systems,Shipped
+257,10299,cgm systems,Shipped
+258,10309,cgm systems,Shipped
+259,10319,cgm systems,Shipped
+260,10329,cgm systems,Shipped
+261,10341,cgm systems,Shipped
+262,10362,cgm systems,Shipped
+263,10375,cgm systems,Shipped
+264,10388,cgm systems,Shipped
+265,10403,cgm systems,Shipped
+266,10417,cgm systems,Disputed
+267,10104,wound care supplies,Shipped
+268,10117,wound care supplies,Shipped
+269,10127,wound care supplies,Shipped
+270,10142,wound care supplies,Shipped
+271,10153,wound care supplies,Shipped
+272,10165,wound care supplies,Shipped
+273,10176,wound care supplies,Shipped
+274,10185,wound care supplies,Shipped
+275,10196,wound care supplies,Shipped
+276,10208,wound care supplies,Shipped
+277,10220,wound care supplies,Shipped
+278,10230,wound care supplies,Shipped
+279,10247,wound care supplies,Shipped
+280,10272,wound care supplies,Shipped
+281,10282,wound care supplies,Shipped
+282,10293,wound care supplies,Shipped
+283,10306,wound care supplies,Shipped
+284,10314,wound care supplies,Shipped
+285,10324,wound care supplies,Shipped
+286,10336,wound care supplies,Shipped
+287,10348,wound care supplies,Shipped
+288,10358,wound care supplies,Shipped
+289,10372,wound care supplies,Shipped
+290,10382,wound care supplies,Shipped
+291,10413,wound care supplies,Shipped
+292,10108,wound care supplies,Shipped
+293,10122,wound care supplies,Shipped
+294,10135,wound care supplies,Shipped
+295,10147,wound care supplies,Shipped
+296,10160,wound care supplies,Shipped
+297,10170,wound care supplies,Shipped
+298,10181,wound care supplies,Shipped
+299,10191,wound care supplies,Shipped
+300,10203,wound care supplies,Shipped
+301,10212,wound care supplies,Shipped
+302,10225,wound care supplies,Shipped
+303,10238,wound care supplies,Shipped
+304,10253,wound care supplies,Cancelled
+305,10266,wound care supplies,Shipped
+306,10276,wound care supplies,Shipped
+307,10287,wound care supplies,Shipped
+308,10300,wound care supplies,Shipped
+309,10310,wound care supplies,Shipped
+310,10320,wound care supplies,Shipped
+311,10329,wound care supplies,Shipped
+312,10341,wound care supplies,Shipped
+313,10363,wound care supplies,Shipped
+314,10376,wound care supplies,Shipped
+315,10389,wound care supplies,Shipped
+316,10419,wound care supplies,Shipped
+317,10105,wound care supplies,Shipped
+318,10117,wound care supplies,Shipped
+319,10127,wound care supplies,Shipped
+320,10142,wound care supplies,Shipped
+321,10153,wound care supplies,Shipped
+322,10165,wound care supplies,Shipped
+323,10176,wound care supplies,Shipped
+324,10185,wound care supplies,Shipped
+325,10196,wound care supplies,Shipped
+326,10208,wound care supplies,Shipped
+327,10220,wound care supplies,Shipped
+328,10231,wound care supplies,Shipped
+329,10247,wound care supplies,Shipped
+330,10272,wound care supplies,Shipped
+331,10282,wound care supplies,Shipped
+332,10293,wound care supplies,Shipped
+333,10306,wound care supplies,Shipped
+334,10314,wound care supplies,Shipped
+335,10325,wound care supplies,Shipped
+336,10336,wound care supplies,Shipped
+337,10349,wound care supplies,Shipped
+338,10359,wound care supplies,Shipped
+339,10372,wound care supplies,Shipped
+340,10382,wound care supplies,Shipped
+341,10396,wound care supplies,Shipped
+342,10413,wound care supplies,Shipped
+343,10108,wound care supplies,Shipped
+344,10122,wound care supplies,Shipped
+345,10135,wound care supplies,Shipped
+346,10147,wound care supplies,Shipped
+347,10159,wound care supplies,Shipped
+348,10169,wound care supplies,Shipped
+349,10181,wound care supplies,Shipped
+350,10191,wound care supplies,Shipped
+351,10203,wound care supplies,Shipped
+352,10211,wound care supplies,Shipped
+353,10225,wound care supplies,Shipped
+354,10238,wound care supplies,Shipped
+355,10253,wound care supplies,Cancelled
+356,10266,wound care supplies,Shipped
+357,10276,wound care supplies,Shipped
+358,10287,wound care supplies,Shipped
+359,10300,wound care supplies,Shipped
+360,10310,wound care supplies,Shipped
+361,10320,wound care supplies,Shipped
+362,10329,wound care supplies,Shipped
+363,10341,wound care supplies,Shipped
+364,10363,wound care supplies,Shipped
+365,10377,wound care supplies,Shipped
+366,10389,wound care supplies,Shipped
+367,10419,wound care supplies,Shipped
+368,10104,ostomy supplies,Shipped
+369,10115,ostomy supplies,Shipped
+370,10127,ostomy supplies,Shipped
+371,10141,ostomy supplies,Shipped
+372,10151,ostomy supplies,Shipped
+373,10165,ostomy supplies,Shipped
+374,10175,ostomy supplies,Shipped
+375,10184,ostomy supplies,Shipped
+376,10195,ostomy supplies,Shipped
+377,10207,ostomy supplies,Shipped
+378,10219,ostomy supplies,Shipped
+379,10229,ostomy supplies,Shipped
+380,10246,ostomy supplies,Shipped
+381,10259,ostomy supplies,Shipped
+382,10271,ostomy supplies,Shipped
+383,10281,ostomy supplies,Shipped
+384,10292,ostomy supplies,Shipped
+385,10305,ostomy supplies,Shipped
+386,10314,ostomy supplies,Shipped
+387,10324,ostomy supplies,Shipped
+388,10336,ostomy supplies,Shipped
+389,10349,ostomy supplies,Shipped
+390,10358,ostomy supplies,Shipped
+391,10371,ostomy supplies,Shipped
+392,10382,ostomy supplies,Shipped
+393,10412,ostomy supplies,Shipped
+394,10425,ostomy supplies,In Process
+395,10108,wound care supplies,Shipped
+396,10122,wound care supplies,Shipped
+397,10135,wound care supplies,Shipped
+398,10147,wound care supplies,Shipped
+399,10160,wound care supplies,Shipped
+400,10170,wound care supplies,Shipped
+401,10181,wound care supplies,Shipped
+402,10192,wound care supplies,Shipped
+403,10203,wound care supplies,Shipped
+404,10212,wound care supplies,Shipped
+405,10225,wound care supplies,Shipped
+406,10239,wound care supplies,Shipped
+407,10253,wound care supplies,Cancelled
+408,10266,wound care supplies,Shipped
+409,10277,wound care supplies,Shipped
+410,10287,wound care supplies,Shipped
+411,10300,wound care supplies,Shipped
+412,10310,wound care supplies,Shipped
+413,10321,wound care supplies,Shipped
+414,10329,wound care supplies,Shipped
+415,10341,wound care supplies,Shipped
+416,10363,wound care supplies,Shipped
+417,10377,wound care supplies,Shipped
+418,10389,wound care supplies,Shipped
+419,10405,wound care supplies,Shipped
+420,10419,wound care supplies,Shipped
+421,10103,ostomy supplies,Shipped
+422,10113,ostomy supplies,Shipped
+423,10126,ostomy supplies,Shipped
+424,10140,ostomy supplies,Shipped
+425,10150,ostomy supplies,Shipped
+426,10164,ostomy supplies,Resolved
+427,10174,ostomy supplies,Shipped
+428,10183,ostomy supplies,Shipped
+429,10194,ostomy supplies,Shipped
+430,10206,ostomy supplies,Shipped
+431,10215,ostomy supplies,Shipped
+432,10228,ostomy supplies,Shipped
+433,10245,ostomy supplies,Shipped
+434,10258,ostomy supplies,Shipped
+435,10270,ostomy supplies,Shipped
+436,10280,ostomy supplies,Shipped
+437,10291,ostomy supplies,Shipped
+438,10304,ostomy supplies,Shipped
+439,10312,ostomy supplies,Shipped
+440,10322,ostomy supplies,Shipped
+441,10333,ostomy supplies,Shipped
+442,10347,ostomy supplies,Shipped
+443,10357,ostomy supplies,Shipped
+444,10370,ostomy supplies,Shipped
+445,10381,ostomy supplies,Shipped
+446,10391,ostomy supplies,Shipped
+447,10411,ostomy supplies,Shipped
+448,10424,ostomy supplies,In Process
+449,10109,wound care supplies,Shipped
+450,10122,wound care supplies,Shipped
+451,10136,wound care supplies,Shipped
+452,10148,wound care supplies,Shipped
+453,10161,wound care supplies,Shipped
+454,10171,wound care supplies,Shipped
+455,10181,wound care supplies,Shipped
+456,10192,wound care supplies,Shipped
+457,10204,wound care supplies,Shipped
+458,10212,wound care supplies,Shipped
+459,10225,wound care supplies,Shipped
+460,10240,wound care supplies,Shipped
+461,10253,wound care supplies,Cancelled
+462,10266,wound care supplies,Shipped
+463,10278,wound care supplies,Shipped
+464,10287,wound care supplies,Shipped
+465,10301,wound care supplies,Shipped
+466,10310,wound care supplies,Shipped
+467,10321,wound care supplies,Shipped
+468,10331,wound care supplies,Shipped
+469,10342,wound care supplies,Shipped
+470,10356,wound care supplies,Shipped
+471,10365,wound care supplies,Shipped
+472,10377,wound care supplies,Shipped
+473,10390,wound care supplies,Shipped
+474,10406,wound care supplies,Disputed
+475,10419,wound care supplies,Shipped
+476,10102,orthopedic supplies,Shipped
+477,10111,orthopedic supplies,Shipped
+478,10125,orthopedic supplies,Shipped
+479,10139,orthopedic supplies,Shipped
+480,10149,orthopedic supplies,Shipped
+481,10162,orthopedic supplies,Shipped
+482,10173,orthopedic supplies,Shipped
+483,10182,orthopedic supplies,Shipped
+484,10193,orthopedic supplies,Shipped
+485,10205,orthopedic supplies,Shipped
+486,10215,orthopedic supplies,Shipped
+487,10227,orthopedic supplies,Shipped
+488,10244,orthopedic supplies,Shipped
+489,10256,orthopedic supplies,Shipped
+490,10280,orthopedic supplies,Shipped
+491,10289,orthopedic supplies,Shipped
+492,10304,orthopedic supplies,Shipped
+493,10312,orthopedic supplies,Shipped
+494,10322,orthopedic supplies,Shipped
+495,10332,orthopedic supplies,Shipped
+496,10346,orthopedic supplies,Shipped
+497,10356,orthopedic supplies,Shipped
+498,10369,orthopedic supplies,Shipped
+499,10380,orthopedic supplies,Shipped
+500,10391,orthopedic supplies,Shipped
+501,10422,orthopedic supplies,In Process
+502,10102,orthopedic supplies,Shipped
+503,10111,orthopedic supplies,Shipped
+504,10126,orthopedic supplies,Shipped
+505,10139,orthopedic supplies,Shipped
+506,10149,orthopedic supplies,Shipped
+507,10162,orthopedic supplies,Shipped
+508,10173,orthopedic supplies,Shipped
+509,10182,orthopedic supplies,Shipped
+510,10193,orthopedic supplies,Shipped
+511,10205,orthopedic supplies,Shipped
+512,10215,orthopedic supplies,Shipped
+513,10227,orthopedic supplies,Shipped
+514,10244,orthopedic supplies,Shipped
+515,10256,orthopedic supplies,Shipped
+516,10280,orthopedic supplies,Shipped
+517,10289,orthopedic supplies,Shipped
+518,10304,orthopedic supplies,Shipped
+519,10312,orthopedic supplies,Shipped
+520,10322,orthopedic supplies,Shipped
+521,10332,orthopedic supplies,Shipped
+522,10347,orthopedic supplies,Shipped
+523,10356,orthopedic supplies,Shipped
+524,10369,orthopedic supplies,Shipped
+525,10381,orthopedic supplies,Shipped
+526,10391,orthopedic supplies,Shipped
+527,10422,orthopedic supplies,In Process
+528,10110,wound care supplies,Shipped
+529,10123,wound care supplies,Shipped
+530,10137,wound care supplies,Shipped
+531,10148,wound care supplies,Shipped
+532,10161,wound care supplies,Shipped
+533,10172,wound care supplies,Shipped
+534,10181,wound care supplies,Shipped
+535,10192,wound care supplies,Shipped
+536,10204,wound care supplies,Shipped
+537,10212,wound care supplies,Shipped
+538,10226,wound care supplies,Shipped
+539,10241,wound care supplies,Shipped
+540,10253,wound care supplies,Cancelled
+541,10266,wound care supplies,Shipped
+542,10278,wound care supplies,Shipped
+543,10288,wound care supplies,Shipped
+544,10301,wound care supplies,Shipped
+545,10311,wound care supplies,Shipped
+546,10321,wound care supplies,Shipped
+547,10331,wound care supplies,Shipped
+548,10343,wound care supplies,Shipped
+549,10367,wound care supplies,Resolved
+550,10378,wound care supplies,Shipped
+551,10407,wound care supplies,On Hold
+552,10419,wound care supplies,Shipped
+553,10106,diabetes testing kit,Shipped
+554,10119,diabetes testing kit,Shipped
+555,10131,diabetes testing kit,Shipped
+556,10143,diabetes testing kit,Shipped
+557,10155,diabetes testing kit,Shipped
+558,10167,diabetes testing kit,Cancelled
+559,10178,diabetes testing kit,Shipped
+560,10186,diabetes testing kit,Shipped
+561,10198,diabetes testing kit,Shipped
+562,10210,diabetes testing kit,Shipped
+563,10222,diabetes testing kit,Shipped
+564,10250,diabetes testing kit,Shipped
+565,10262,diabetes testing kit,Cancelled
+566,10274,diabetes testing kit,Shipped
+567,10284,diabetes testing kit,Shipped
+568,10296,diabetes testing kit,Shipped
+569,10307,diabetes testing kit,Shipped
+570,10316,diabetes testing kit,Shipped
+571,10327,diabetes testing kit,Resolved
+572,10338,diabetes testing kit,Shipped
+573,10351,diabetes testing kit,Shipped
+574,10373,diabetes testing kit,Shipped
+575,10386,diabetes testing kit,Resolved
+576,10398,diabetes testing kit,Shipped
+577,10400,diabetes testing kit,Shipped
+578,10416,diabetes testing kit,Shipped
+579,10100,orthopedic supplies,Shipped
+580,10110,orthopedic supplies,Shipped
+581,10124,orthopedic supplies,Shipped
+582,10149,orthopedic supplies,Shipped
+583,10162,orthopedic supplies,Shipped
+584,10173,orthopedic supplies,Shipped
+585,10182,orthopedic supplies,Shipped
+586,10193,orthopedic supplies,Shipped
+587,10204,orthopedic supplies,Shipped
+588,10214,orthopedic supplies,Shipped
+589,10227,orthopedic supplies,Shipped
+590,10241,orthopedic supplies,Shipped
+591,10280,orthopedic supplies,Shipped
+592,10288,orthopedic supplies,Shipped
+593,10302,orthopedic supplies,Shipped
+594,10312,orthopedic supplies,Shipped
+595,10331,orthopedic supplies,Shipped
+596,10344,orthopedic supplies,Shipped
+597,10367,orthopedic supplies,Resolved
+598,10379,orthopedic supplies,Shipped
+599,10407,orthopedic supplies,On Hold
+600,10420,orthopedic supplies,In Process
+601,10108,wound care supplies,Shipped
+602,10122,wound care supplies,Shipped
+603,10135,wound care supplies,Shipped
+604,10147,wound care supplies,Shipped
+605,10160,wound care supplies,Shipped
+606,10170,wound care supplies,Shipped
+607,10181,wound care supplies,Shipped
+608,10192,wound care supplies,Shipped
+609,10203,wound care supplies,Shipped
+610,10212,wound care supplies,Shipped
+611,10225,wound care supplies,Shipped
+612,10239,wound care supplies,Shipped
+613,10253,wound care supplies,Cancelled
+614,10266,wound care supplies,Shipped
+615,10278,wound care supplies,Shipped
+616,10287,wound care supplies,Shipped
+617,10300,wound care supplies,Shipped
+618,10310,wound care supplies,Shipped
+619,10321,wound care supplies,Shipped
+620,10329,wound care supplies,Shipped
+621,10342,wound care supplies,Shipped
+622,10363,wound care supplies,Shipped
+623,10377,wound care supplies,Shipped
+624,10389,wound care supplies,Shipped
+625,10405,wound care supplies,Shipped
+626,10419,wound care supplies,Shipped
+627,10109,wound care supplies,Shipped
+628,10122,wound care supplies,Shipped
+629,10136,wound care supplies,Shipped
+630,10148,wound care supplies,Shipped
+631,10161,wound care supplies,Shipped
+632,10171,wound care supplies,Shipped
+633,10181,wound care supplies,Shipped
+634,10192,wound care supplies,Shipped
+635,10204,wound care supplies,Shipped
+636,10212,wound care supplies,Shipped
+637,10226,wound care supplies,Shipped
+638,10240,wound care supplies,Shipped
+639,10253,wound care supplies,Cancelled
+640,10266,wound care supplies,Shipped
+641,10278,wound care supplies,Shipped
+642,10287,wound care supplies,Shipped
+643,10301,wound care supplies,Shipped
+644,10310,wound care supplies,Shipped
+645,10321,wound care supplies,Shipped
+646,10331,wound care supplies,Shipped
+647,10342,wound care supplies,Shipped
+648,10356,wound care supplies,Shipped
+649,10366,wound care supplies,Shipped
+650,10377,wound care supplies,Shipped
+651,10390,wound care supplies,Shipped
+652,10406,wound care supplies,Disputed
+653,10419,wound care supplies,Shipped
+654,10104,wound care supplies,Shipped
+655,10115,wound care supplies,Shipped
+656,10127,wound care supplies,Shipped
+657,10141,wound care supplies,Shipped
+658,10151,wound care supplies,Shipped
+659,10165,wound care supplies,Shipped
+660,10176,wound care supplies,Shipped
+661,10184,wound care supplies,Shipped
+662,10195,wound care supplies,Shipped
+663,10207,wound care supplies,Shipped
+664,10219,wound care supplies,Shipped
+665,10230,wound care supplies,Shipped
+666,10246,wound care supplies,Shipped
+667,10259,wound care supplies,Shipped
+668,10271,wound care supplies,Shipped
+669,10282,wound care supplies,Shipped
+670,10292,wound care supplies,Shipped
+671,10305,wound care supplies,Shipped
+672,10314,wound care supplies,Shipped
+673,10324,wound care supplies,Shipped
+674,10336,wound care supplies,Shipped
+675,10349,wound care supplies,Shipped
+676,10358,wound care supplies,Shipped
+677,10371,wound care supplies,Shipped
+678,10382,wound care supplies,Shipped
+679,10412,wound care supplies,Shipped
+680,10425,wound care supplies,In Process
+681,10100,orthopedic supplies,Shipped
+682,10110,orthopedic supplies,Shipped
+683,10124,orthopedic supplies,Shipped
+684,10149,orthopedic supplies,Shipped
+685,10162,orthopedic supplies,Shipped
+686,10173,orthopedic supplies,Shipped
+687,10182,orthopedic supplies,Shipped
+688,10193,orthopedic supplies,Shipped
+689,10204,orthopedic supplies,Shipped
+690,10214,orthopedic supplies,Shipped
+691,10227,orthopedic supplies,Shipped
+692,10241,orthopedic supplies,Shipped
+693,10280,orthopedic supplies,Shipped
+694,10288,orthopedic supplies,Shipped
+695,10303,orthopedic supplies,Shipped
+696,10312,orthopedic supplies,Shipped
+697,10332,orthopedic supplies,Shipped
+698,10344,orthopedic supplies,Shipped
+699,10367,orthopedic supplies,Resolved
+700,10379,orthopedic supplies,Shipped
+701,10407,orthopedic supplies,On Hold
+702,10420,orthopedic supplies,In Process
+703,10104,ostomy supplies,Shipped
+704,10114,ostomy supplies,Shipped
+705,10127,ostomy supplies,Shipped
+706,10141,ostomy supplies,Shipped
+707,10151,ostomy supplies,Shipped
+708,10165,ostomy supplies,Shipped
+709,10175,ostomy supplies,Shipped
+710,10184,ostomy supplies,Shipped
+711,10195,ostomy supplies,Shipped
+712,10207,ostomy supplies,Shipped
+713,10229,ostomy supplies,Shipped
+714,10246,ostomy supplies,Shipped
+715,10259,ostomy supplies,Shipped
+716,10271,ostomy supplies,Shipped
+717,10281,ostomy supplies,Shipped
+718,10292,ostomy supplies,Shipped
+719,10305,ostomy supplies,Shipped
+720,10313,ostomy supplies,Shipped
+721,10324,ostomy supplies,Shipped
+722,10334,ostomy supplies,On Hold
+723,10349,ostomy supplies,Shipped
+724,10358,ostomy supplies,Shipped
+725,10370,ostomy supplies,Shipped
+726,10383,ostomy supplies,Shipped
+727,10412,ostomy supplies,Shipped
+728,10425,ostomy supplies,In Process
+729,10101,orthopedic supplies,Shipped
+730,10110,orthopedic supplies,Shipped
+731,10124,orthopedic supplies,Shipped
+732,10149,orthopedic supplies,Shipped
+733,10162,orthopedic supplies,Shipped
+734,10173,orthopedic supplies,Shipped
+735,10182,orthopedic supplies,Shipped
+736,10193,orthopedic supplies,Shipped
+737,10204,orthopedic supplies,Shipped
+738,10214,orthopedic supplies,Shipped
+739,10227,orthopedic supplies,Shipped
+740,10243,orthopedic supplies,Shipped
+741,10280,orthopedic supplies,Shipped
+742,10288,orthopedic supplies,Shipped
+743,10304,orthopedic supplies,Shipped
+744,10312,orthopedic supplies,Shipped
+745,10322,orthopedic supplies,Shipped
+746,10332,orthopedic supplies,Shipped
+747,10344,orthopedic supplies,Shipped
+748,10356,orthopedic supplies,Shipped
+749,10367,orthopedic supplies,Resolved
+750,10380,orthopedic supplies,Shipped
+751,10390,orthopedic supplies,Shipped
+752,10409,orthopedic supplies,Shipped
+753,10420,orthopedic supplies,In Process
+754,10103,ostomy supplies,Shipped
+755,10114,ostomy supplies,Shipped
+756,10126,ostomy supplies,Shipped
+757,10140,ostomy supplies,Shipped
+758,10151,ostomy supplies,Shipped
+759,10165,ostomy supplies,Shipped
+760,10175,ostomy supplies,Shipped
+761,10184,ostomy supplies,Shipped
+762,10194,ostomy supplies,Shipped
+763,10207,ostomy supplies,Shipped
+764,10217,ostomy supplies,Shipped
+765,10229,ostomy supplies,Shipped
+766,10246,ostomy supplies,Shipped
+767,10259,ostomy supplies,Shipped
+768,10271,ostomy supplies,Shipped
+769,10281,ostomy supplies,Shipped
+770,10291,ostomy supplies,Shipped
+771,10305,ostomy supplies,Shipped
+772,10313,ostomy supplies,Shipped
+773,10322,ostomy supplies,Shipped
+774,10334,ostomy supplies,On Hold
+775,10347,ostomy supplies,Shipped
+776,10357,ostomy supplies,Shipped
+777,10370,ostomy supplies,Shipped
+778,10381,ostomy supplies,Shipped
+779,10391,ostomy supplies,Shipped
+780,10412,ostomy supplies,Shipped
+781,10425,ostomy supplies,In Process
+782,10106,diabetes testing kit,Shipped
+783,10120,diabetes testing kit,Shipped
+784,10133,diabetes testing kit,Shipped
+785,10145,diabetes testing kit,Shipped
+786,10168,diabetes testing kit,Shipped
+787,10210,diabetes testing kit,Shipped
+788,10223,diabetes testing kit,Shipped
+789,10235,diabetes testing kit,Shipped
+790,10250,diabetes testing kit,Shipped
+791,10263,diabetes testing kit,Shipped
+792,10275,diabetes testing kit,Shipped
+793,10284,diabetes testing kit,Shipped
+794,10297,diabetes testing kit,Shipped
+795,10308,diabetes testing kit,Shipped
+796,10318,diabetes testing kit,Shipped
+797,10327,diabetes testing kit,Resolved
+798,10339,diabetes testing kit,Shipped
+799,10353,diabetes testing kit,Shipped
+800,10374,diabetes testing kit,Shipped
+801,10386,diabetes testing kit,Resolved
+802,10398,diabetes testing kit,Shipped
+803,10401,diabetes testing kit,On Hold
+804,10416,diabetes testing kit,Shipped
+805,10107,cgm systems,Shipped
+806,10120,cgm systems,Shipped
+807,10134,cgm systems,Shipped
+808,10145,cgm systems,Shipped
+809,10159,cgm systems,Shipped
+810,10168,cgm systems,Shipped
+811,10180,cgm systems,Shipped
+812,10188,cgm systems,Shipped
+813,10201,cgm systems,Shipped
+814,10210,cgm systems,Shipped
+815,10223,cgm systems,Shipped
+816,10236,cgm systems,Shipped
+817,10251,cgm systems,Shipped
+818,10263,cgm systems,Shipped
+819,10275,cgm systems,Shipped
+820,10285,cgm systems,Shipped
+821,10298,cgm systems,Shipped
+822,10308,cgm systems,Shipped
+823,10318,cgm systems,Shipped
+824,10329,cgm systems,Shipped
+825,10339,cgm systems,Shipped
+826,10362,cgm systems,Shipped
+827,10374,cgm systems,Shipped
+828,10389,cgm systems,Shipped
+829,10402,cgm systems,Shipped
+830,10417,cgm systems,Disputed
+831,10101,orthopedic supplies,Shipped
+832,10110,orthopedic supplies,Shipped
+833,10125,orthopedic supplies,Shipped
+834,10139,orthopedic supplies,Shipped
+835,10149,orthopedic supplies,Shipped
+836,10162,orthopedic supplies,Shipped
+837,10173,orthopedic supplies,Shipped
+838,10182,orthopedic supplies,Shipped
+839,10193,orthopedic supplies,Shipped
+840,10205,orthopedic supplies,Shipped
+841,10214,orthopedic supplies,Shipped
+842,10227,orthopedic supplies,Shipped
+843,10244,orthopedic supplies,Shipped
+844,10255,orthopedic supplies,Shipped
+845,10280,orthopedic supplies,Shipped
+846,10289,orthopedic supplies,Shipped
+847,10304,orthopedic supplies,Shipped
+848,10312,orthopedic supplies,Shipped
+849,10322,orthopedic supplies,Shipped
+850,10332,orthopedic supplies,Shipped
+851,10347,orthopedic supplies,Shipped
+852,10356,orthopedic supplies,Shipped
+853,10367,orthopedic supplies,Resolved
+854,10380,orthopedic supplies,Shipped
+855,10390,orthopedic supplies,Shipped
+856,10421,orthopedic supplies,In Process
+857,10109,wound care supplies,Shipped
+858,10123,wound care supplies,Shipped
+859,10137,wound care supplies,Shipped
+860,10148,wound care supplies,Shipped
+861,10161,wound care supplies,Shipped
+862,10172,wound care supplies,Shipped
+863,10181,wound care supplies,Shipped
+864,10192,wound care supplies,Shipped
+865,10204,wound care supplies,Shipped
+866,10212,wound care supplies,Shipped
+867,10226,wound care supplies,Shipped
+868,10241,wound care supplies,Shipped
+869,10253,wound care supplies,Cancelled
+870,10266,wound care supplies,Shipped
+871,10278,wound care supplies,Shipped
+872,10287,wound care supplies,Shipped
+873,10301,wound care supplies,Shipped
+874,10311,wound care supplies,Shipped
+875,10321,wound care supplies,Shipped
+876,10331,wound care supplies,Shipped
+877,10343,wound care supplies,Shipped
+878,10366,wound care supplies,Shipped
+879,10379,wound care supplies,Shipped
+880,10407,wound care supplies,On Hold
+881,10419,wound care supplies,Shipped
+882,10103,orthopedic supplies,Shipped
+883,10112,orthopedic supplies,Shipped
+884,10126,orthopedic supplies,Shipped
+885,10139,orthopedic supplies,Shipped
+886,10150,orthopedic supplies,Shipped
+887,10163,orthopedic supplies,Shipped
+888,10174,orthopedic supplies,Shipped
+889,10183,orthopedic supplies,Shipped
+890,10193,orthopedic supplies,Shipped
+891,10206,orthopedic supplies,Shipped
+892,10215,orthopedic supplies,Shipped
+893,10228,orthopedic supplies,Shipped
+894,10244,orthopedic supplies,Shipped
+895,10257,orthopedic supplies,Shipped
+896,10270,orthopedic supplies,Shipped
+897,10280,orthopedic supplies,Shipped
+898,10291,orthopedic supplies,Shipped
+899,10304,orthopedic supplies,Shipped
+900,10312,orthopedic supplies,Shipped
+901,10322,orthopedic supplies,Shipped
+902,10333,orthopedic supplies,Shipped
+903,10347,orthopedic supplies,Shipped
+904,10357,orthopedic supplies,Shipped
+905,10369,orthopedic supplies,Shipped
+906,10381,orthopedic supplies,Shipped
+907,10391,orthopedic supplies,Shipped
+908,10423,orthopedic supplies,In Process
+909,10103,orthopedic supplies,Shipped
+910,10111,orthopedic supplies,Shipped
+911,10126,orthopedic supplies,Shipped
+912,10139,orthopedic supplies,Shipped
+913,10150,orthopedic supplies,Shipped
+914,10163,orthopedic supplies,Shipped
+915,10173,orthopedic supplies,Shipped
+916,10183,orthopedic supplies,Shipped
+917,10193,orthopedic supplies,Shipped
+918,10206,orthopedic supplies,Shipped
+919,10215,orthopedic supplies,Shipped
+920,10228,orthopedic supplies,Shipped
+921,10244,orthopedic supplies,Shipped
+922,10257,orthopedic supplies,Shipped
+923,10269,orthopedic supplies,Shipped
+924,10280,orthopedic supplies,Shipped
+925,10291,orthopedic supplies,Shipped
+926,10304,orthopedic supplies,Shipped
+927,10312,orthopedic supplies,Shipped
+928,10322,orthopedic supplies,Shipped
+929,10332,orthopedic supplies,Shipped
+930,10347,orthopedic supplies,Shipped
+931,10357,orthopedic supplies,Shipped
+932,10369,orthopedic supplies,Shipped
+933,10381,orthopedic supplies,Shipped
+934,10392,orthopedic supplies,Shipped
+935,10423,orthopedic supplies,In Process
+936,10106,wound care supplies,Shipped
+937,10119,wound care supplies,Shipped
+938,10130,wound care supplies,Shipped
+939,10143,wound care supplies,Shipped
+940,10155,wound care supplies,Shipped
+941,10167,wound care supplies,Cancelled
+942,10178,wound care supplies,Shipped
+943,10186,wound care supplies,Shipped
+944,10197,wound care supplies,Shipped
+945,10209,wound care supplies,Shipped
+946,10222,wound care supplies,Shipped
+947,10248,wound care supplies,Cancelled
+948,10262,wound care supplies,Cancelled
+949,10273,wound care supplies,Shipped
+950,10283,wound care supplies,Shipped
+951,10296,wound care supplies,Shipped
+952,10307,wound care supplies,Shipped
+953,10316,wound care supplies,Shipped
+954,10327,wound care supplies,Resolved
+955,10338,wound care supplies,Shipped
+956,10350,wound care supplies,Shipped
+957,10373,wound care supplies,Shipped
+958,10386,wound care supplies,Resolved
+959,10398,wound care supplies,Shipped
+960,10400,wound care supplies,Shipped
+961,10414,wound care supplies,On Hold
+962,10103,orthopedic supplies,Shipped
+963,10111,orthopedic supplies,Shipped
+964,10126,orthopedic supplies,Shipped
+965,10139,orthopedic supplies,Shipped
+966,10150,orthopedic supplies,Shipped
+967,10163,orthopedic supplies,Shipped
+968,10173,orthopedic supplies,Shipped
+969,10183,orthopedic supplies,Shipped
+970,10193,orthopedic supplies,Shipped
+971,10206,orthopedic supplies,Shipped
+972,10215,orthopedic supplies,Shipped
+973,10228,orthopedic supplies,Shipped
+974,10244,orthopedic supplies,Shipped
+975,10257,orthopedic supplies,Shipped
+976,10270,orthopedic supplies,Shipped
+977,10280,orthopedic supplies,Shipped
+978,10291,orthopedic supplies,Shipped
+979,10304,orthopedic supplies,Shipped
+980,10312,orthopedic supplies,Shipped
+981,10322,orthopedic supplies,Shipped
+982,10332,orthopedic supplies,Shipped
+983,10347,orthopedic supplies,Shipped
+984,10357,orthopedic supplies,Shipped
+985,10369,orthopedic supplies,Shipped
+986,10381,orthopedic supplies,Shipped
+987,10392,orthopedic supplies,Shipped
+988,10423,orthopedic supplies,In Process
+989,10105,orthopedic supplies,Shipped
+990,10117,orthopedic supplies,Shipped
+991,10128,orthopedic supplies,Shipped
+992,10142,orthopedic supplies,Shipped
+993,10153,orthopedic supplies,Shipped
+994,10166,orthopedic supplies,Shipped
+995,10177,orthopedic supplies,Shipped
+996,10185,orthopedic supplies,Shipped
+997,10196,orthopedic supplies,Shipped
+998,10208,orthopedic supplies,Shipped
+999,10221,orthopedic supplies,Shipped
+1000,10232,orthopedic supplies,Shipped
+1001,10248,orthopedic supplies,Cancelled
+1002,10273,orthopedic supplies,Shipped
+1003,10282,orthopedic supplies,Shipped
+1004,10293,orthopedic supplies,Shipped
+1005,10306,orthopedic supplies,Shipped
+1006,10314,orthopedic supplies,Shipped
+1007,10325,orthopedic supplies,Shipped
+1008,10336,orthopedic supplies,Shipped
+1009,10350,orthopedic supplies,Shipped
+1010,10372,orthopedic supplies,Shipped
+1011,10383,orthopedic supplies,Shipped
+1012,10396,orthopedic supplies,Shipped
+1013,10414,orthopedic supplies,On Hold
+1014,10104,wound care supplies,Shipped
+1015,10109,wound care supplies,Shipped
+1016,10114,wound care supplies,Shipped
+1017,10122,wound care supplies,Shipped
+1018,10127,wound care supplies,Shipped
+1019,10136,wound care supplies,Shipped
+1020,10141,wound care supplies,Shipped
+1021,10148,wound care supplies,Shipped
+1022,10151,wound care supplies,Shipped
+1023,10160,wound care supplies,Shipped
+1024,10165,wound care supplies,Shipped
+1025,10171,wound care supplies,Shipped
+1026,10175,wound care supplies,Shipped
+1027,10181,wound care supplies,Shipped
+1028,10184,wound care supplies,Shipped
+1029,10192,wound care supplies,Shipped
+1030,10195,wound care supplies,Shipped
+1031,10203,wound care supplies,Shipped
+1032,10207,wound care supplies,Shipped
+1033,10212,wound care supplies,Shipped
+1034,10225,wound care supplies,Shipped
+1035,10229,wound care supplies,Shipped
+1036,10239,wound care supplies,Shipped
+1037,10246,wound care supplies,Shipped
+1038,10253,wound care supplies,Cancelled
+1039,10259,wound care supplies,Shipped
+1040,10266,wound care supplies,Shipped
+1041,10271,wound care supplies,Shipped
+1042,10278,wound care supplies,Shipped
+1043,10281,wound care supplies,Shipped
+1044,10287,wound care supplies,Shipped
+1045,10292,wound care supplies,Shipped
+1046,10301,wound care supplies,Shipped
+1047,10305,wound care supplies,Shipped
+1048,10310,wound care supplies,Shipped
+1049,10313,wound care supplies,Shipped
+1050,10321,wound care supplies,Shipped
+1051,10324,wound care supplies,Shipped
+1052,10331,wound care supplies,Shipped
+1053,10334,wound care supplies,On Hold
+1054,10342,wound care supplies,Shipped
+1055,10349,wound care supplies,Shipped
+1056,10358,wound care supplies,Shipped
+1057,10366,wound care supplies,Shipped
+1058,10370,wound care supplies,Shipped
+1059,10377,wound care supplies,Shipped
+1060,10383,wound care supplies,Shipped
+1061,10394,wound care supplies,Shipped
+1062,10405,wound care supplies,Shipped
+1063,10412,wound care supplies,Shipped
+1064,10419,wound care supplies,Shipped
+1065,10425,wound care supplies,In Process
+1066,10105,urological supplies,Shipped
+1067,10117,urological supplies,Shipped
+1068,10128,urological supplies,Shipped
+1069,10142,urological supplies,Shipped
+1070,10153,urological supplies,Shipped
+1071,10165,urological supplies,Shipped
+1072,10177,urological supplies,Shipped
+1073,10185,urological supplies,Shipped
+1074,10196,urological supplies,Shipped
+1075,10208,urological supplies,Shipped
+1076,10221,urological supplies,Shipped
+1077,10232,urological supplies,Shipped
+1078,10248,urological supplies,Cancelled
+1079,10273,urological supplies,Shipped
+1080,10282,urological supplies,Shipped
+1081,10293,urological supplies,Shipped
+1082,10306,urological supplies,Shipped
+1083,10314,urological supplies,Shipped
+1084,10326,urological supplies,Shipped
+1085,10336,urological supplies,Shipped
+1086,10350,urological supplies,Shipped
+1087,10372,urological supplies,Shipped
+1088,10383,urological supplies,Shipped
+1089,10396,urological supplies,Shipped
+1090,10414,urological supplies,On Hold
+1091,10108,wound care supplies,Shipped
+1092,10122,wound care supplies,Shipped
+1093,10135,wound care supplies,Shipped
+1094,10147,wound care supplies,Shipped
+1095,10159,wound care supplies,Shipped
+1096,10169,wound care supplies,Shipped
+1097,10181,wound care supplies,Shipped
+1098,10191,wound care supplies,Shipped
+1099,10203,wound care supplies,Shipped
+1100,10211,wound care supplies,Shipped
+1101,10225,wound care supplies,Shipped
+1102,10238,wound care supplies,Shipped
+1103,10252,wound care supplies,Shipped
+1104,10265,wound care supplies,Shipped
+1105,10276,wound care supplies,Shipped
+1106,10287,wound care supplies,Shipped
+1107,10300,wound care supplies,Shipped
+1108,10310,wound care supplies,Shipped
+1109,10319,wound care supplies,Shipped
+1110,10329,wound care supplies,Shipped
+1111,10342,wound care supplies,Shipped
+1112,10363,wound care supplies,Shipped
+1113,10378,wound care supplies,Shipped
+1114,10390,wound care supplies,Shipped
+1115,10103,orthopedic supplies,Shipped
+1116,10111,orthopedic supplies,Shipped
+1117,10126,orthopedic supplies,Shipped
+1118,10139,orthopedic supplies,Shipped
+1119,10149,orthopedic supplies,Shipped
+1120,10163,orthopedic supplies,Shipped
+1121,10173,orthopedic supplies,Shipped
+1122,10182,orthopedic supplies,Shipped
+1123,10193,orthopedic supplies,Shipped
+1124,10206,orthopedic supplies,Shipped
+1125,10215,orthopedic supplies,Shipped
+1126,10227,orthopedic supplies,Shipped
+1127,10244,orthopedic supplies,Shipped
+1128,10257,orthopedic supplies,Shipped
+1129,10280,orthopedic supplies,Shipped
+1130,10290,orthopedic supplies,Shipped
+1131,10304,orthopedic supplies,Shipped
+1132,10312,orthopedic supplies,Shipped
+1133,10323,orthopedic supplies,Shipped
+1134,10333,orthopedic supplies,Shipped
+1135,10347,orthopedic supplies,Shipped
+1136,10357,orthopedic supplies,Shipped
+1137,10369,orthopedic supplies,Shipped
+1138,10382,orthopedic supplies,Shipped
+1139,10392,orthopedic supplies,Shipped
+1140,10423,orthopedic supplies,In Process
+1141,10108,wound care supplies,Shipped
+1142,10122,wound care supplies,Shipped
+1143,10135,wound care supplies,Shipped
+1144,10147,wound care supplies,Shipped
+1145,10159,wound care supplies,Shipped
+1146,10169,wound care supplies,Shipped
+1147,10181,wound care supplies,Shipped
+1148,10191,wound care supplies,Shipped
+1149,10203,wound care supplies,Shipped
+1150,10211,wound care supplies,Shipped
+1151,10225,wound care supplies,Shipped
+1152,10238,wound care supplies,Shipped
+1153,10252,wound care supplies,Shipped
+1154,10265,wound care supplies,Shipped
+1155,10276,wound care supplies,Shipped
+1156,10287,wound care supplies,Shipped
+1157,10300,wound care supplies,Shipped
+1158,10310,wound care supplies,Shipped
+1159,10320,wound care supplies,Shipped
+1160,10330,wound care supplies,Shipped
+1161,10342,wound care supplies,Shipped
+1162,10355,wound care supplies,Shipped
+1163,10363,wound care supplies,Shipped
+1164,10378,wound care supplies,Shipped
+1165,10390,wound care supplies,Shipped
+1166,10109,wound care supplies,Shipped
+1167,10123,wound care supplies,Shipped
+1168,10137,wound care supplies,Shipped
+1169,10148,wound care supplies,Shipped
+1170,10161,wound care supplies,Shipped
+1171,10172,wound care supplies,Shipped
+1172,10181,wound care supplies,Shipped
+1173,10192,wound care supplies,Shipped
+1174,10204,wound care supplies,Shipped
+1175,10212,wound care supplies,Shipped
+1176,10226,wound care supplies,Shipped
+1177,10240,wound care supplies,Shipped
+1178,10253,wound care supplies,Cancelled
+1179,10266,wound care supplies,Shipped
+1180,10278,wound care supplies,Shipped
+1181,10287,wound care supplies,Shipped
+1182,10301,wound care supplies,Shipped
+1183,10311,wound care supplies,Shipped
+1184,10321,wound care supplies,Shipped
+1185,10331,wound care supplies,Shipped
+1186,10343,wound care supplies,Shipped
+1187,10367,wound care supplies,Resolved
+1188,10379,wound care supplies,Shipped
+1189,10406,wound care supplies,Disputed
+1190,10419,wound care supplies,Shipped
+1191,10108,cgm systems,Shipped
+1192,10122,cgm systems,Shipped
+1193,10135,cgm systems,Shipped
+1194,10146,cgm systems,Shipped
+1195,10159,cgm systems,Shipped
+1196,10169,cgm systems,Shipped
+1197,10180,cgm systems,Shipped
+1198,10191,cgm systems,Shipped
+1199,10211,cgm systems,Shipped
+1200,10224,cgm systems,Shipped
+1201,10237,cgm systems,Shipped
+1202,10252,cgm systems,Shipped
+1203,10264,cgm systems,Shipped
+1204,10276,cgm systems,Shipped
+1205,10286,cgm systems,Shipped
+1206,10299,cgm systems,Shipped
+1207,10310,cgm systems,Shipped
+1208,10319,cgm systems,Shipped
+1209,10330,cgm systems,Shipped
+1210,10342,cgm systems,Shipped
+1211,10355,cgm systems,Shipped
+1212,10363,cgm systems,Shipped
+1213,10378,cgm systems,Shipped
+1214,10390,cgm systems,Shipped
+1215,10403,cgm systems,Shipped
+1216,10106,orthopedic supplies,Shipped
+1217,10119,orthopedic supplies,Shipped
+1218,10130,orthopedic supplies,Shipped
+1219,10143,orthopedic supplies,Shipped
+1220,10155,orthopedic supplies,Shipped
+1221,10167,orthopedic supplies,Cancelled
+1222,10178,orthopedic supplies,Shipped
+1223,10186,orthopedic supplies,Shipped
+1224,10197,orthopedic supplies,Shipped
+1225,10209,orthopedic supplies,Shipped
+1226,10222,orthopedic supplies,Shipped
+1227,10249,orthopedic supplies,Shipped
+1228,10262,orthopedic supplies,Cancelled
+1229,10273,orthopedic supplies,Shipped
+1230,10283,orthopedic supplies,Shipped
+1231,10296,orthopedic supplies,Shipped
+1232,10307,orthopedic supplies,Shipped
+1233,10316,orthopedic supplies,Shipped
+1234,10328,orthopedic supplies,Shipped
+1235,10338,orthopedic supplies,Shipped
+1236,10351,orthopedic supplies,Shipped
+1237,10373,orthopedic supplies,Shipped
+1238,10386,orthopedic supplies,Resolved
+1239,10398,orthopedic supplies,Shipped
+1240,10400,orthopedic supplies,Shipped
+1241,10415,orthopedic supplies,Disputed
+1242,10104,wound care supplies,Shipped
+1243,10117,wound care supplies,Shipped
+1244,10127,wound care supplies,Shipped
+1245,10142,wound care supplies,Shipped
+1246,10152,wound care supplies,Shipped
+1247,10165,wound care supplies,Shipped
+1248,10176,wound care supplies,Shipped
+1249,10185,wound care supplies,Shipped
+1250,10196,wound care supplies,Shipped
+1251,10207,wound care supplies,Shipped
+1252,10220,wound care supplies,Shipped
+1253,10230,wound care supplies,Shipped
+1254,10247,wound care supplies,Shipped
+1255,10272,wound care supplies,Shipped
+1256,10282,wound care supplies,Shipped
+1257,10292,wound care supplies,Shipped
+1258,10306,wound care supplies,Shipped
+1259,10314,wound care supplies,Shipped
+1260,10324,wound care supplies,Shipped
+1261,10337,wound care supplies,Shipped
+1262,10349,wound care supplies,Shipped
+1263,10358,wound care supplies,Shipped
+1264,10372,wound care supplies,Shipped
+1265,10383,wound care supplies,Shipped
+1266,10394,wound care supplies,Shipped
+1267,10413,wound care supplies,Shipped
+1268,10100,orthopedic supplies,Shipped
+1269,10110,orthopedic supplies,Shipped
+1270,10124,orthopedic supplies,Shipped
+1271,10148,orthopedic supplies,Shipped
+1272,10162,orthopedic supplies,Shipped
+1273,10173,orthopedic supplies,Shipped
+1274,10182,orthopedic supplies,Shipped
+1275,10193,orthopedic supplies,Shipped
+1276,10204,orthopedic supplies,Shipped
+1277,10213,orthopedic supplies,Shipped
+1278,10227,orthopedic supplies,Shipped
+1279,10241,orthopedic supplies,Shipped
+1280,10280,orthopedic supplies,Shipped
+1281,10288,orthopedic supplies,Shipped
+1282,10302,orthopedic supplies,Shipped
+1283,10311,orthopedic supplies,Shipped
+1284,10332,orthopedic supplies,Shipped
+1285,10344,orthopedic supplies,Shipped
+1286,10367,orthopedic supplies,Resolved
+1287,10380,orthopedic supplies,Shipped
+1288,10407,orthopedic supplies,On Hold
+1289,10420,orthopedic supplies,In Process
+1290,10105,orthopedic supplies,Shipped
+1291,10117,orthopedic supplies,Shipped
+1292,10128,orthopedic supplies,Shipped
+1293,10142,orthopedic supplies,Shipped
+1294,10153,orthopedic supplies,Shipped
+1295,10166,orthopedic supplies,Shipped
+1296,10177,orthopedic supplies,Shipped
+1297,10185,orthopedic supplies,Shipped
+1298,10197,orthopedic supplies,Shipped
+1299,10208,orthopedic supplies,Shipped
+1300,10221,orthopedic supplies,Shipped
+1301,10232,orthopedic supplies,Shipped
+1302,10248,orthopedic supplies,Cancelled
+1303,10261,orthopedic supplies,Shipped
+1304,10273,orthopedic supplies,Shipped
+1305,10283,orthopedic supplies,Shipped
+1306,10293,orthopedic supplies,Shipped
+1307,10306,orthopedic supplies,Shipped
+1308,10315,orthopedic supplies,Shipped
+1309,10326,orthopedic supplies,Shipped
+1310,10337,orthopedic supplies,Shipped
+1311,10350,orthopedic supplies,Shipped
+1312,10372,orthopedic supplies,Shipped
+1313,10383,orthopedic supplies,Shipped
+1314,10396,orthopedic supplies,Shipped
+1315,10414,orthopedic supplies,On Hold
+1316,10103,ostomy supplies,Shipped
+1317,10114,ostomy supplies,Shipped
+1318,10126,ostomy supplies,Shipped
+1319,10140,ostomy supplies,Shipped
+1320,10150,ostomy supplies,Shipped
+1321,10164,ostomy supplies,Resolved
+1322,10175,ostomy supplies,Shipped
+1323,10183,ostomy supplies,Shipped
+1324,10194,ostomy supplies,Shipped
+1325,10207,ostomy supplies,Shipped
+1326,10217,ostomy supplies,Shipped
+1327,10229,ostomy supplies,Shipped
+1328,10245,ostomy supplies,Shipped
+1329,10259,ostomy supplies,Shipped
+1330,10270,ostomy supplies,Shipped
+1331,10281,ostomy supplies,Shipped
+1332,10291,ostomy supplies,Shipped
+1333,10305,ostomy supplies,Shipped
+1334,10313,ostomy supplies,Shipped
+1335,10323,ostomy supplies,Shipped
+1336,10334,ostomy supplies,On Hold
+1337,10347,ostomy supplies,Shipped
+1338,10357,ostomy supplies,Shipped
+1339,10370,ostomy supplies,Shipped
+1340,10382,ostomy supplies,Shipped
+1341,10411,ostomy supplies,Shipped
+1342,10425,ostomy supplies,In Process
+1343,10103,orthopedic supplies,Shipped
+1344,10113,orthopedic supplies,Shipped
+1345,10126,orthopedic supplies,Shipped
+1346,10140,orthopedic supplies,Shipped
+1347,10150,orthopedic supplies,Shipped
+1348,10164,orthopedic supplies,Resolved
+1349,10174,orthopedic supplies,Shipped
+1350,10183,orthopedic supplies,Shipped
+1351,10194,orthopedic supplies,Shipped
+1352,10206,orthopedic supplies,Shipped
+1353,10215,orthopedic supplies,Shipped
+1354,10229,orthopedic supplies,Shipped
+1355,10245,orthopedic supplies,Shipped
+1356,10258,orthopedic supplies,Shipped
+1357,10270,orthopedic supplies,Shipped
+1358,10281,orthopedic supplies,Shipped
+1359,10291,orthopedic supplies,Shipped
+1360,10304,orthopedic supplies,Shipped
+1361,10312,orthopedic supplies,Shipped
+1362,10324,orthopedic supplies,Shipped
+1363,10333,orthopedic supplies,Shipped
+1364,10348,orthopedic supplies,Shipped
+1365,10358,orthopedic supplies,Shipped
+1366,10370,orthopedic supplies,Shipped
+1367,10382,orthopedic supplies,Shipped
+1368,10411,orthopedic supplies,Shipped
+1369,10424,orthopedic supplies,In Process
+1370,10108,wound care supplies,Shipped
+1371,10122,wound care supplies,Shipped
+1372,10135,wound care supplies,Shipped
+1373,10146,wound care supplies,Shipped
+1374,10159,wound care supplies,Shipped
+1375,10169,wound care supplies,Shipped
+1376,10180,wound care supplies,Shipped
+1377,10191,wound care supplies,Shipped
+1378,10211,wound care supplies,Shipped
+1379,10225,wound care supplies,Shipped
+1380,10238,wound care supplies,Shipped
+1381,10252,wound care supplies,Shipped
+1382,10264,wound care supplies,Shipped
+1383,10276,wound care supplies,Shipped
+1384,10287,wound care supplies,Shipped
+1385,10299,wound care supplies,Shipped
+1386,10310,wound care supplies,Shipped
+1387,10319,wound care supplies,Shipped
+1388,10330,wound care supplies,Shipped
+1389,10342,wound care supplies,Shipped
+1390,10355,wound care supplies,Shipped
+1391,10363,wound care supplies,Shipped
+1392,10378,wound care supplies,Shipped
+1393,10390,wound care supplies,Shipped
+1394,10110,wound care supplies,Shipped
+1395,10124,wound care supplies,Shipped
+1396,10148,wound care supplies,Shipped
+1397,10161,wound care supplies,Shipped
+1398,10173,wound care supplies,Shipped
+1399,10182,wound care supplies,Shipped
+1400,10193,wound care supplies,Shipped
+1401,10204,wound care supplies,Shipped
+1402,10213,wound care supplies,Shipped
+1403,10227,wound care supplies,Shipped
+1404,10241,wound care supplies,Shipped
+1405,10267,wound care supplies,Shipped
+1406,10279,wound care supplies,Shipped
+1407,10288,wound care supplies,Shipped
+1408,10302,wound care supplies,Shipped
+1409,10311,wound care supplies,Shipped
+1410,10332,wound care supplies,Shipped
+1411,10344,wound care supplies,Shipped
+1412,10367,wound care supplies,Resolved
+1413,10380,wound care supplies,Shipped
+1414,10407,wound care supplies,On Hold
+1415,10420,wound care supplies,In Process
+1416,10110,wound care supplies,Shipped
+1417,10124,wound care supplies,Shipped
+1418,10148,wound care supplies,Shipped
+1419,10161,wound care supplies,Shipped
+1420,10172,wound care supplies,Shipped
+1421,10182,wound care supplies,Shipped
+1422,10192,wound care supplies,Shipped
+1423,10204,wound care supplies,Shipped
+1424,10212,wound care supplies,Shipped
+1425,10226,wound care supplies,Shipped
+1426,10241,wound care supplies,Shipped
+1427,10267,wound care supplies,Shipped
+1428,10279,wound care supplies,Shipped
+1429,10288,wound care supplies,Shipped
+1430,10301,wound care supplies,Shipped
+1431,10311,wound care supplies,Shipped
+1432,10321,wound care supplies,Shipped
+1433,10332,wound care supplies,Shipped
+1434,10344,wound care supplies,Shipped
+1435,10367,wound care supplies,Resolved
+1436,10380,wound care supplies,Shipped
+1437,10407,wound care supplies,On Hold
+1438,10420,wound care supplies,In Process
+1439,10104,wound care supplies,Shipped
+1440,10115,wound care supplies,Shipped
+1441,10127,wound care supplies,Shipped
+1442,10141,wound care supplies,Shipped
+1443,10152,wound care supplies,Shipped
+1444,10165,wound care supplies,Shipped
+1445,10176,wound care supplies,Shipped
+1446,10184,wound care supplies,Shipped
+1447,10195,wound care supplies,Shipped
+1448,10207,wound care supplies,Shipped
+1449,10220,wound care supplies,Shipped
+1450,10230,wound care supplies,Shipped
+1451,10246,wound care supplies,Shipped
+1452,10259,wound care supplies,Shipped
+1453,10271,wound care supplies,Shipped
+1454,10282,wound care supplies,Shipped
+1455,10292,wound care supplies,Shipped
+1456,10305,wound care supplies,Shipped
+1457,10314,wound care supplies,Shipped
+1458,10324,wound care supplies,Shipped
+1459,10336,wound care supplies,Shipped
+1460,10349,wound care supplies,Shipped
+1461,10358,wound care supplies,Shipped
+1462,10371,wound care supplies,Shipped
+1463,10383,wound care supplies,Shipped
+1464,10394,wound care supplies,Shipped
+1465,10412,wound care supplies,Shipped
+1466,10425,wound care supplies,In Process
+1467,10107,cgm systems,Shipped
+1468,10120,cgm systems,Shipped
+1469,10134,cgm systems,Shipped
+1470,10145,cgm systems,Shipped
+1471,10159,cgm systems,Shipped
+1472,10168,cgm systems,Shipped
+1473,10180,cgm systems,Shipped
+1474,10188,cgm systems,Shipped
+1475,10201,cgm systems,Shipped
+1476,10211,cgm systems,Shipped
+1477,10223,cgm systems,Shipped
+1478,10237,cgm systems,Shipped
+1479,10251,cgm systems,Shipped
+1480,10263,cgm systems,Shipped
+1481,10275,cgm systems,Shipped
+1482,10285,cgm systems,Shipped
+1483,10299,cgm systems,Shipped
+1484,10309,cgm systems,Shipped
+1485,10318,cgm systems,Shipped
+1486,10329,cgm systems,Shipped
+1487,10339,cgm systems,Shipped
+1488,10362,cgm systems,Shipped
+1489,10374,cgm systems,Shipped
+1490,10389,cgm systems,Shipped
+1491,10403,cgm systems,Shipped
+1492,10417,cgm systems,Disputed
+1493,10110,wound care supplies,Shipped
+1494,10123,wound care supplies,Shipped
+1495,10137,wound care supplies,Shipped
+1496,10148,wound care supplies,Shipped
+1497,10161,wound care supplies,Shipped
+1498,10172,wound care supplies,Shipped
+1499,10181,wound care supplies,Shipped
+1500,10192,wound care supplies,Shipped
+1501,10204,wound care supplies,Shipped
+1502,10212,wound care supplies,Shipped
+1503,10226,wound care supplies,Shipped
+1504,10241,wound care supplies,Shipped
+1505,10266,wound care supplies,Shipped
+1506,10278,wound care supplies,Shipped
+1507,10288,wound care supplies,Shipped
+1508,10301,wound care supplies,Shipped
+1509,10311,wound care supplies,Shipped
+1510,10321,wound care supplies,Shipped
+1511,10332,wound care supplies,Shipped
+1512,10343,wound care supplies,Shipped
+1513,10367,wound care supplies,Resolved
+1514,10379,wound care supplies,Shipped
+1515,10407,wound care supplies,On Hold
+1516,10420,wound care supplies,In Process
+1517,10106,diabetes testing kit,Shipped
+1518,10120,diabetes testing kit,Shipped
+1519,10133,diabetes testing kit,Shipped
+1520,10145,diabetes testing kit,Shipped
+1521,10168,diabetes testing kit,Shipped
+1522,10210,diabetes testing kit,Shipped
+1523,10223,diabetes testing kit,Shipped
+1524,10235,diabetes testing kit,Shipped
+1525,10250,diabetes testing kit,Shipped
+1526,10262,diabetes testing kit,Cancelled
+1527,10275,diabetes testing kit,Shipped
+1528,10284,diabetes testing kit,Shipped
+1529,10297,diabetes testing kit,Shipped
+1530,10308,diabetes testing kit,Shipped
+1531,10316,diabetes testing kit,Shipped
+1532,10328,diabetes testing kit,Shipped
+1533,10339,diabetes testing kit,Shipped
+1534,10353,diabetes testing kit,Shipped
+1535,10374,diabetes testing kit,Shipped
+1536,10386,diabetes testing kit,Resolved
+1537,10398,diabetes testing kit,Shipped
+1538,10401,diabetes testing kit,On Hold
+1539,10416,diabetes testing kit,Shipped
+1540,10101,orthopedic supplies,Shipped
+1541,10110,orthopedic supplies,Shipped
+1542,10124,orthopedic supplies,Shipped
+1543,10149,orthopedic supplies,Shipped
+1544,10162,orthopedic supplies,Shipped
+1545,10173,orthopedic supplies,Shipped
+1546,10182,orthopedic supplies,Shipped
+1547,10193,orthopedic supplies,Shipped
+1548,10205,orthopedic supplies,Shipped
+1549,10214,orthopedic supplies,Shipped
+1550,10227,orthopedic supplies,Shipped
+1551,10243,orthopedic supplies,Shipped
+1552,10280,orthopedic supplies,Shipped
+1553,10288,orthopedic supplies,Shipped
+1554,10304,orthopedic supplies,Shipped
+1555,10312,orthopedic supplies,Shipped
+1556,10322,orthopedic supplies,Shipped
+1557,10332,orthopedic supplies,Shipped
+1558,10344,orthopedic supplies,Shipped
+1559,10356,orthopedic supplies,Shipped
+1560,10367,orthopedic supplies,Resolved
+1561,10380,orthopedic supplies,Shipped
+1562,10391,orthopedic supplies,Shipped
+1563,10409,orthopedic supplies,Shipped
+1564,10420,orthopedic supplies,In Process
+1565,10107,cgm systems,Shipped
+1566,10120,cgm systems,Shipped
+1567,10134,cgm systems,Shipped
+1568,10145,cgm systems,Shipped
+1569,10158,cgm systems,Shipped
+1570,10168,cgm systems,Shipped
+1571,10180,cgm systems,Shipped
+1572,10188,cgm systems,Shipped
+1573,10201,cgm systems,Shipped
+1574,10210,cgm systems,Shipped
+1575,10223,cgm systems,Shipped
+1576,10236,cgm systems,Shipped
+1577,10250,cgm systems,Shipped
+1578,10263,cgm systems,Shipped
+1579,10275,cgm systems,Shipped
+1580,10285,cgm systems,Shipped
+1581,10297,cgm systems,Shipped
+1582,10308,cgm systems,Shipped
+1583,10318,cgm systems,Shipped
+1584,10329,cgm systems,Shipped
+1585,10340,cgm systems,Shipped
+1586,10363,cgm systems,Shipped
+1587,10375,cgm systems,Shipped
+1588,10389,cgm systems,Shipped
+1589,10402,cgm systems,Shipped
+1590,10416,cgm systems,Shipped
+1591,10105,wound care supplies,Shipped
+1592,10117,wound care supplies,Shipped
+1593,10129,wound care supplies,Shipped
+1594,10142,wound care supplies,Shipped
+1595,10153,wound care supplies,Shipped
+1596,10167,wound care supplies,Cancelled
+1597,10177,wound care supplies,Shipped
+1598,10185,wound care supplies,Shipped
+1599,10197,wound care supplies,Shipped
+1600,10208,wound care supplies,Shipped
+1601,10221,wound care supplies,Shipped
+1602,10232,wound care supplies,Shipped
+1603,10248,wound care supplies,Cancelled
+1604,10261,wound care supplies,Shipped
+1605,10273,wound care supplies,Shipped
+1606,10283,wound care supplies,Shipped
+1607,10293,wound care supplies,Shipped
+1608,10306,wound care supplies,Shipped
+1609,10315,wound care supplies,Shipped
+1610,10326,wound care supplies,Shipped
+1611,10337,wound care supplies,Shipped
+1612,10350,wound care supplies,Shipped
+1613,10372,wound care supplies,Shipped
+1614,10384,wound care supplies,Shipped
+1615,10396,wound care supplies,Shipped
+1616,10414,wound care supplies,On Hold
+1617,10101,orthopedic supplies,Shipped
+1618,10110,orthopedic supplies,Shipped
+1619,10124,orthopedic supplies,Shipped
+1620,10149,orthopedic supplies,Shipped
+1621,10162,orthopedic supplies,Shipped
+1622,10173,orthopedic supplies,Shipped
+1623,10182,orthopedic supplies,Shipped
+1624,10193,orthopedic supplies,Shipped
+1625,10205,orthopedic supplies,Shipped
+1626,10214,orthopedic supplies,Shipped
+1627,10227,orthopedic supplies,Shipped
+1628,10244,orthopedic supplies,Shipped
+1629,10255,orthopedic supplies,Shipped
+1630,10280,orthopedic supplies,Shipped
+1631,10289,orthopedic supplies,Shipped
+1632,10304,orthopedic supplies,Shipped
+1633,10312,orthopedic supplies,Shipped
+1634,10322,orthopedic supplies,Shipped
+1635,10332,orthopedic supplies,Shipped
+1636,10345,orthopedic supplies,Shipped
+1637,10356,orthopedic supplies,Shipped
+1638,10367,orthopedic supplies,Resolved
+1639,10380,orthopedic supplies,Shipped
+1640,10391,orthopedic supplies,Shipped
+1641,10421,orthopedic supplies,In Process
+1642,10103,ostomy supplies,Shipped
+1643,10114,ostomy supplies,Shipped
+1644,10126,ostomy supplies,Shipped
+1645,10140,ostomy supplies,Shipped
+1646,10151,ostomy supplies,Shipped
+1647,10165,ostomy supplies,Shipped
+1648,10175,ostomy supplies,Shipped
+1649,10184,ostomy supplies,Shipped
+1650,10194,ostomy supplies,Shipped
+1651,10207,ostomy supplies,Shipped
+1652,10217,ostomy supplies,Shipped
+1653,10229,ostomy supplies,Shipped
+1654,10246,ostomy supplies,Shipped
+1655,10259,ostomy supplies,Shipped
+1656,10271,ostomy supplies,Shipped
+1657,10281,ostomy supplies,Shipped
+1658,10291,ostomy supplies,Shipped
+1659,10305,ostomy supplies,Shipped
+1660,10313,ostomy supplies,Shipped
+1661,10324,ostomy supplies,Shipped
+1662,10334,ostomy supplies,On Hold
+1663,10348,ostomy supplies,Shipped
+1664,10358,ostomy supplies,Shipped
+1665,10371,ostomy supplies,Shipped
+1666,10382,ostomy supplies,Shipped
+1667,10412,ostomy supplies,Shipped
+1668,10425,ostomy supplies,In Process
+1669,10108,cgm systems,Shipped
+1670,10121,cgm systems,Shipped
+1671,10135,cgm systems,Shipped
+1672,10145,cgm systems,Shipped
+1673,10159,cgm systems,Shipped
+1674,10169,cgm systems,Shipped
+1675,10180,cgm systems,Shipped
+1676,10190,cgm systems,Shipped
+1677,10211,cgm systems,Shipped
+1678,10224,cgm systems,Shipped
+1679,10237,cgm systems,Shipped
+1680,10252,cgm systems,Shipped
+1681,10264,cgm systems,Shipped
+1682,10276,cgm systems,Shipped
+1683,10285,cgm systems,Shipped
+1684,10299,cgm systems,Shipped
+1685,10309,cgm systems,Shipped
+1686,10319,cgm systems,Shipped
+1687,10330,cgm systems,Shipped
+1688,10341,cgm systems,Shipped
+1689,10355,cgm systems,Shipped
+1690,10363,cgm systems,Shipped
+1691,10375,cgm systems,Shipped
+1692,10390,cgm systems,Shipped
+1693,10403,cgm systems,Shipped
+1694,10110,wound care supplies,Shipped
+1695,10124,wound care supplies,Shipped
+1696,10148,wound care supplies,Shipped
+1697,10161,wound care supplies,Shipped
+1698,10172,wound care supplies,Shipped
+1699,10182,wound care supplies,Shipped
+1700,10192,wound care supplies,Shipped
+1701,10204,wound care supplies,Shipped
+1702,10212,wound care supplies,Shipped
+1703,10227,wound care supplies,Shipped
+1704,10241,wound care supplies,Shipped
+1705,10267,wound care supplies,Shipped
+1706,10279,wound care supplies,Shipped
+1707,10288,wound care supplies,Shipped
+1708,10302,wound care supplies,Shipped
+1709,10311,wound care supplies,Shipped
+1710,10321,wound care supplies,Shipped
+1711,10332,wound care supplies,Shipped
+1712,10346,wound care supplies,Shipped
+1713,10368,wound care supplies,Shipped
+1714,10380,wound care supplies,Shipped
+1715,10407,wound care supplies,On Hold
+1716,10420,wound care supplies,In Process
+1717,10104,wound care supplies,Shipped
+1718,10114,wound care supplies,Shipped
+1719,10127,wound care supplies,Shipped
+1720,10141,wound care supplies,Shipped
+1721,10151,wound care supplies,Shipped
+1722,10165,wound care supplies,Shipped
+1723,10175,wound care supplies,Shipped
+1724,10184,wound care supplies,Shipped
+1725,10195,wound care supplies,Shipped
+1726,10207,wound care supplies,Shipped
+1727,10219,wound care supplies,Shipped
+1728,10229,wound care supplies,Shipped
+1729,10246,wound care supplies,Shipped
+1730,10259,wound care supplies,Shipped
+1731,10271,wound care supplies,Shipped
+1732,10281,wound care supplies,Shipped
+1733,10292,wound care supplies,Shipped
+1734,10305,wound care supplies,Shipped
+1735,10314,wound care supplies,Shipped
+1736,10324,wound care supplies,Shipped
+1737,10335,wound care supplies,Shipped
+1738,10349,wound care supplies,Shipped
+1739,10358,wound care supplies,Shipped
+1740,10371,wound care supplies,Shipped
+1741,10383,wound care supplies,Shipped
+1742,10394,wound care supplies,Shipped
+1743,10412,wound care supplies,Shipped
+1744,10425,wound care supplies,In Process
+1745,10106,diabetes testing kit,Shipped
+1746,10119,diabetes testing kit,Shipped
+1747,10131,diabetes testing kit,Shipped
+1748,10143,diabetes testing kit,Shipped
+1749,10155,diabetes testing kit,Shipped
+1750,10167,diabetes testing kit,Cancelled
+1751,10178,diabetes testing kit,Shipped
+1752,10186,diabetes testing kit,Shipped
+1753,10198,diabetes testing kit,Shipped
+1754,10209,diabetes testing kit,Shipped
+1755,10222,diabetes testing kit,Shipped
+1756,10249,diabetes testing kit,Shipped
+1757,10262,diabetes testing kit,Cancelled
+1758,10274,diabetes testing kit,Shipped
+1759,10284,diabetes testing kit,Shipped
+1760,10296,diabetes testing kit,Shipped
+1761,10307,diabetes testing kit,Shipped
+1762,10316,diabetes testing kit,Shipped
+1763,10328,diabetes testing kit,Shipped
+1764,10339,diabetes testing kit,Shipped
+1765,10351,diabetes testing kit,Shipped
+1766,10373,diabetes testing kit,Shipped
+1767,10386,diabetes testing kit,Resolved
+1768,10398,diabetes testing kit,Shipped
+1769,10400,diabetes testing kit,Shipped
+1770,10415,diabetes testing kit,Disputed
+1771,10110,wound care supplies,Shipped
+1772,10124,wound care supplies,Shipped
+1773,10148,wound care supplies,Shipped
+1774,10161,wound care supplies,Shipped
+1775,10173,wound care supplies,Shipped
+1776,10182,wound care supplies,Shipped
+1777,10192,wound care supplies,Shipped
+1778,10204,wound care supplies,Shipped
+1779,10213,wound care supplies,Shipped
+1780,10227,wound care supplies,Shipped
+1781,10241,wound care supplies,Shipped
+1782,10267,wound care supplies,Shipped
+1783,10279,wound care supplies,Shipped
+1784,10288,wound care supplies,Shipped
+1785,10302,wound care supplies,Shipped
+1786,10311,wound care supplies,Shipped
+1787,10332,wound care supplies,Shipped
+1788,10346,wound care supplies,Shipped
+1789,10368,wound care supplies,Shipped
+1790,10380,wound care supplies,Shipped
+1791,10407,wound care supplies,On Hold
+1792,10420,wound care supplies,In Process
+1793,10109,wound care supplies,Shipped
+1794,10122,wound care supplies,Shipped
+1795,10135,wound care supplies,Shipped
+1796,10147,wound care supplies,Shipped
+1797,10160,wound care supplies,Shipped
+1798,10171,wound care supplies,Shipped
+1799,10181,wound care supplies,Shipped
+1800,10192,wound care supplies,Shipped
+1801,10203,wound care supplies,Shipped
+1802,10212,wound care supplies,Shipped
+1803,10225,wound care supplies,Shipped
+1804,10239,wound care supplies,Shipped
+1805,10253,wound care supplies,Cancelled
+1806,10266,wound care supplies,Shipped
+1807,10278,wound care supplies,Shipped
+1808,10287,wound care supplies,Shipped
+1809,10301,wound care supplies,Shipped
+1810,10310,wound care supplies,Shipped
+1811,10321,wound care supplies,Shipped
+1812,10331,wound care supplies,Shipped
+1813,10342,wound care supplies,Shipped
+1814,10355,wound care supplies,Shipped
+1815,10367,wound care supplies,Resolved
+1816,10378,wound care supplies,Shipped
+1817,10390,wound care supplies,Shipped
+1818,10405,wound care supplies,Shipped
+1819,10419,wound care supplies,Shipped
+1820,10105,orthopedic supplies,Shipped
+1821,10119,orthopedic supplies,Shipped
+1822,10129,orthopedic supplies,Shipped
+1823,10142,orthopedic supplies,Shipped
+1824,10154,orthopedic supplies,Shipped
+1825,10167,orthopedic supplies,Cancelled
+1826,10177,orthopedic supplies,Shipped
+1827,10185,orthopedic supplies,Shipped
+1828,10197,orthopedic supplies,Shipped
+1829,10208,orthopedic supplies,Shipped
+1830,10222,orthopedic supplies,Shipped
+1831,10233,orthopedic supplies,Shipped
+1832,10248,orthopedic supplies,Cancelled
+1833,10261,orthopedic supplies,Shipped
+1834,10273,orthopedic supplies,Shipped
+1835,10283,orthopedic supplies,Shipped
+1836,10295,orthopedic supplies,Shipped
+1837,10306,orthopedic supplies,Shipped
+1838,10315,orthopedic supplies,Shipped
+1839,10326,orthopedic supplies,Shipped
+1840,10339,orthopedic supplies,Shipped
+1841,10350,orthopedic supplies,Shipped
+1842,10373,orthopedic supplies,Shipped
+1843,10384,orthopedic supplies,Shipped
+1844,10396,orthopedic supplies,Shipped
+1845,10414,orthopedic supplies,On Hold
+1846,10110,wound care supplies,Shipped
+1847,10124,wound care supplies,Shipped
+1848,10148,wound care supplies,Shipped
+1849,10161,wound care supplies,Shipped
+1850,10172,wound care supplies,Shipped
+1851,10182,wound care supplies,Shipped
+1852,10192,wound care supplies,Shipped
+1853,10204,wound care supplies,Shipped
+1854,10212,wound care supplies,Shipped
+1855,10227,wound care supplies,Shipped
+1856,10241,wound care supplies,Shipped
+1857,10267,wound care supplies,Shipped
+1858,10279,wound care supplies,Shipped
+1859,10288,wound care supplies,Shipped
+1860,10302,wound care supplies,Shipped
+1861,10311,wound care supplies,Shipped
+1862,10321,wound care supplies,Shipped
+1863,10332,wound care supplies,Shipped
+1864,10346,wound care supplies,Shipped
+1865,10368,wound care supplies,Shipped
+1866,10380,wound care supplies,Shipped
+1867,10407,wound care supplies,On Hold
+1868,10420,wound care supplies,In Process
+1869,10108,wound care supplies,Shipped
+1870,10122,wound care supplies,Shipped
+1871,10135,wound care supplies,Shipped
+1872,10147,wound care supplies,Shipped
+1873,10159,wound care supplies,Shipped
+1874,10169,wound care supplies,Shipped
+1875,10181,wound care supplies,Shipped
+1876,10191,wound care supplies,Shipped
+1877,10203,wound care supplies,Shipped
+1878,10211,wound care supplies,Shipped
+1879,10225,wound care supplies,Shipped
+1880,10238,wound care supplies,Shipped
+1881,10253,wound care supplies,Cancelled
+1882,10266,wound care supplies,Shipped
+1883,10276,wound care supplies,Shipped
+1884,10287,wound care supplies,Shipped
+1885,10300,wound care supplies,Shipped
+1886,10310,wound care supplies,Shipped
+1887,10320,wound care supplies,Shipped
+1888,10331,wound care supplies,Shipped
+1889,10342,wound care supplies,Shipped
+1890,10355,wound care supplies,Shipped
+1891,10363,wound care supplies,Shipped
+1892,10378,wound care supplies,Shipped
+1893,10390,wound care supplies,Shipped
+1894,10419,wound care supplies,Shipped
+1895,10106,orthopedic supplies,Shipped
+1896,10119,orthopedic supplies,Shipped
+1897,10131,orthopedic supplies,Shipped
+1898,10143,orthopedic supplies,Shipped
+1899,10155,orthopedic supplies,Shipped
+1900,10167,orthopedic supplies,Cancelled
+1901,10178,orthopedic supplies,Shipped
+1902,10186,orthopedic supplies,Shipped
+1903,10198,orthopedic supplies,Shipped
+1904,10209,orthopedic supplies,Shipped
+1905,10222,orthopedic supplies,Shipped
+1906,10249,orthopedic supplies,Shipped
+1907,10262,orthopedic supplies,Cancelled
+1908,10274,orthopedic supplies,Shipped
+1909,10284,orthopedic supplies,Shipped
+1910,10296,orthopedic supplies,Shipped
+1911,10307,orthopedic supplies,Shipped
+1912,10316,orthopedic supplies,Shipped
+1913,10328,orthopedic supplies,Shipped
+1914,10339,orthopedic supplies,Shipped
+1915,10351,orthopedic supplies,Shipped
+1916,10361,orthopedic supplies,Shipped
+1917,10373,orthopedic supplies,Shipped
+1918,10386,orthopedic supplies,Resolved
+1919,10398,orthopedic supplies,Shipped
+1920,10400,orthopedic supplies,Shipped
+1921,10415,orthopedic supplies,Disputed
+1922,10110,wound care supplies,Shipped
+1923,10124,wound care supplies,Shipped
+1924,10148,wound care supplies,Shipped
+1925,10161,wound care supplies,Shipped
+1926,10172,wound care supplies,Shipped
+1927,10182,wound care supplies,Shipped
+1928,10192,wound care supplies,Shipped
+1929,10204,wound care supplies,Shipped
+1930,10212,wound care supplies,Shipped
+1931,10226,wound care supplies,Shipped
+1932,10241,wound care supplies,Shipped
+1933,10267,wound care supplies,Shipped
+1934,10279,wound care supplies,Shipped
+1935,10288,wound care supplies,Shipped
+1936,10301,wound care supplies,Shipped
+1937,10311,wound care supplies,Shipped
+1938,10321,wound care supplies,Shipped
+1939,10332,wound care supplies,Shipped
+1940,10346,wound care supplies,Shipped
+1941,10368,wound care supplies,Shipped
+1942,10380,wound care supplies,Shipped
+1943,10407,wound care supplies,On Hold
+1944,10420,wound care supplies,In Process
+1945,10105,orthopedic supplies,Shipped
+1946,10119,orthopedic supplies,Shipped
+1947,10129,orthopedic supplies,Shipped
+1948,10143,orthopedic supplies,Shipped
+1949,10155,orthopedic supplies,Shipped
+1950,10167,orthopedic supplies,Cancelled
+1951,10178,orthopedic supplies,Shipped
+1952,10186,orthopedic supplies,Shipped
+1953,10197,orthopedic supplies,Shipped
+1954,10209,orthopedic supplies,Shipped
+1955,10222,orthopedic supplies,Shipped
+1956,10248,orthopedic supplies,Cancelled
+1957,10262,orthopedic supplies,Cancelled
+1958,10273,orthopedic supplies,Shipped
+1959,10283,orthopedic supplies,Shipped
+1960,10296,orthopedic supplies,Shipped
+1961,10307,orthopedic supplies,Shipped
+1962,10316,orthopedic supplies,Shipped
+1963,10326,orthopedic supplies,Shipped
+1964,10339,orthopedic supplies,Shipped
+1965,10350,orthopedic supplies,Shipped
+1966,10373,orthopedic supplies,Shipped
+1967,10385,orthopedic supplies,Shipped
+1968,10396,orthopedic supplies,Shipped
+1969,10400,orthopedic supplies,Shipped
+1970,10414,orthopedic supplies,On Hold
+1971,10108,wound care supplies,Shipped
+1972,10122,wound care supplies,Shipped
+1973,10135,wound care supplies,Shipped
+1974,10147,wound care supplies,Shipped
+1975,10160,wound care supplies,Shipped
+1976,10170,wound care supplies,Shipped
+1977,10181,wound care supplies,Shipped
+1978,10192,wound care supplies,Shipped
+1979,10203,wound care supplies,Shipped
+1980,10212,wound care supplies,Shipped
+1981,10225,wound care supplies,Shipped
+1982,10239,wound care supplies,Shipped
+1983,10253,wound care supplies,Cancelled
+1984,10266,wound care supplies,Shipped
+1985,10278,wound care supplies,Shipped
+1986,10287,wound care supplies,Shipped
+1987,10301,wound care supplies,Shipped
+1988,10310,wound care supplies,Shipped
+1989,10321,wound care supplies,Shipped
+1990,10331,wound care supplies,Shipped
+1991,10342,wound care supplies,Shipped
+1992,10355,wound care supplies,Shipped
+1993,10363,wound care supplies,Shipped
+1994,10378,wound care supplies,Shipped
+1995,10390,wound care supplies,Shipped
+1996,10405,wound care supplies,Shipped
+1997,10419,wound care supplies,Shipped
+1998,10106,diabetes testing kit,Shipped
+1999,10119,diabetes testing kit,Shipped
+2000,10131,diabetes testing kit,Shipped
+2001,10143,diabetes testing kit,Shipped
+2002,10155,diabetes testing kit,Shipped
+2003,10168,diabetes testing kit,Shipped
+2004,10178,diabetes testing kit,Shipped
+2005,10198,diabetes testing kit,Shipped
+2006,10210,diabetes testing kit,Shipped
+2007,10222,diabetes testing kit,Shipped
+2008,10235,diabetes testing kit,Shipped
+2009,10250,diabetes testing kit,Shipped
+2010,10262,diabetes testing kit,Cancelled
+2011,10275,diabetes testing kit,Shipped
+2012,10284,diabetes testing kit,Shipped
+2013,10296,diabetes testing kit,Shipped
+2014,10308,diabetes testing kit,Shipped
+2015,10316,diabetes testing kit,Shipped
+2016,10328,diabetes testing kit,Shipped
+2017,10339,diabetes testing kit,Shipped
+2018,10351,diabetes testing kit,Shipped
+2019,10361,diabetes testing kit,Shipped
+2020,10373,diabetes testing kit,Shipped
+2021,10386,diabetes testing kit,Resolved
+2022,10398,diabetes testing kit,Shipped
+2023,10401,diabetes testing kit,On Hold
+2024,10416,diabetes testing kit,Shipped
+2025,10100,orthopedic supplies,Shipped
+2026,10110,orthopedic supplies,Shipped
+2027,10124,orthopedic supplies,Shipped
+2028,10149,orthopedic supplies,Shipped
+2029,10162,orthopedic supplies,Shipped
+2030,10173,orthopedic supplies,Shipped
+2031,10182,orthopedic supplies,Shipped
+2032,10193,orthopedic supplies,Shipped
+2033,10204,orthopedic supplies,Shipped
+2034,10214,orthopedic supplies,Shipped
+2035,10227,orthopedic supplies,Shipped
+2036,10242,orthopedic supplies,Shipped
+2037,10280,orthopedic supplies,Shipped
+2038,10288,orthopedic supplies,Shipped
+2039,10303,orthopedic supplies,Shipped
+2040,10312,orthopedic supplies,Shipped
+2041,10332,orthopedic supplies,Shipped
+2042,10346,orthopedic supplies,Shipped
+2043,10368,orthopedic supplies,Shipped
+2044,10380,orthopedic supplies,Shipped
+2045,10408,orthopedic supplies,Shipped
+2046,10420,orthopedic supplies,In Process
+2047,10104,wound care supplies,Shipped
+2048,10115,wound care supplies,Shipped
+2049,10127,wound care supplies,Shipped
+2050,10141,wound care supplies,Shipped
+2051,10152,wound care supplies,Shipped
+2052,10165,wound care supplies,Shipped
+2053,10176,wound care supplies,Shipped
+2054,10184,wound care supplies,Shipped
+2055,10195,wound care supplies,Shipped
+2056,10207,wound care supplies,Shipped
+2057,10220,wound care supplies,Shipped
+2058,10230,wound care supplies,Shipped
+2059,10246,wound care supplies,Shipped
+2060,10271,wound care supplies,Shipped
+2061,10282,wound care supplies,Shipped
+2062,10292,wound care supplies,Shipped
+2063,10305,wound care supplies,Shipped
+2064,10314,wound care supplies,Shipped
+2065,10325,wound care supplies,Shipped
+2066,10336,wound care supplies,Shipped
+2067,10349,wound care supplies,Shipped
+2068,10359,wound care supplies,Shipped
+2069,10371,wound care supplies,Shipped
+2070,10383,wound care supplies,Shipped
+2071,10394,wound care supplies,Shipped
+2072,10412,wound care supplies,Shipped
+2073,10103,orthopedic supplies,Shipped
+2074,10111,orthopedic supplies,Shipped
+2075,10126,orthopedic supplies,Shipped
+2076,10139,orthopedic supplies,Shipped
+2077,10149,orthopedic supplies,Shipped
+2078,10163,orthopedic supplies,Shipped
+2079,10173,orthopedic supplies,Shipped
+2080,10183,orthopedic supplies,Shipped
+2081,10193,orthopedic supplies,Shipped
+2082,10206,orthopedic supplies,Shipped
+2083,10215,orthopedic supplies,Shipped
+2084,10228,orthopedic supplies,Shipped
+2085,10244,orthopedic supplies,Shipped
+2086,10257,orthopedic supplies,Shipped
+2087,10269,orthopedic supplies,Shipped
+2088,10280,orthopedic supplies,Shipped
+2089,10290,orthopedic supplies,Shipped
+2090,10304,orthopedic supplies,Shipped
+2091,10312,orthopedic supplies,Shipped
+2092,10324,orthopedic supplies,Shipped
+2093,10333,orthopedic supplies,Shipped
+2094,10348,orthopedic supplies,Shipped
+2095,10358,orthopedic supplies,Shipped
+2096,10369,orthopedic supplies,Shipped
+2097,10382,orthopedic supplies,Shipped
+2098,10423,orthopedic supplies,In Process
+2099,10106,diabetes testing kit,Shipped
+2100,10120,diabetes testing kit,Shipped
+2101,10133,diabetes testing kit,Shipped
+2102,10145,diabetes testing kit,Shipped
+2103,10168,diabetes testing kit,Shipped
+2104,10210,diabetes testing kit,Shipped
+2105,10223,diabetes testing kit,Shipped
+2106,10235,diabetes testing kit,Shipped
+2107,10250,diabetes testing kit,Shipped
+2108,10263,diabetes testing kit,Shipped
+2109,10275,diabetes testing kit,Shipped
+2110,10284,diabetes testing kit,Shipped
+2111,10297,diabetes testing kit,Shipped
+2112,10308,diabetes testing kit,Shipped
+2113,10317,diabetes testing kit,Shipped
+2114,10328,diabetes testing kit,Shipped
+2115,10340,diabetes testing kit,Shipped
+2116,10353,diabetes testing kit,Shipped
+2117,10361,diabetes testing kit,Shipped
+2118,10375,diabetes testing kit,Shipped
+2119,10386,diabetes testing kit,Resolved
+2120,10398,diabetes testing kit,Shipped
+2121,10401,diabetes testing kit,On Hold
+2122,10416,diabetes testing kit,Shipped
+2123,10108,wound care supplies,Shipped
+2124,10122,wound care supplies,Shipped
+2125,10135,wound care supplies,Shipped
+2126,10147,wound care supplies,Shipped
+2127,10159,wound care supplies,Shipped
+2128,10169,wound care supplies,Shipped
+2129,10180,wound care supplies,Shipped
+2130,10191,wound care supplies,Shipped
+2131,10211,wound care supplies,Shipped
+2132,10225,wound care supplies,Shipped
+2133,10238,wound care supplies,Shipped
+2134,10252,wound care supplies,Shipped
+2135,10264,wound care supplies,Shipped
+2136,10276,wound care supplies,Shipped
+2137,10287,wound care supplies,Shipped
+2138,10299,wound care supplies,Shipped
+2139,10310,wound care supplies,Shipped
+2140,10319,wound care supplies,Shipped
+2141,10331,wound care supplies,Shipped
+2142,10343,wound care supplies,Shipped
+2143,10355,wound care supplies,Shipped
+2144,10363,wound care supplies,Shipped
+2145,10378,wound care supplies,Shipped
+2146,10390,wound care supplies,Shipped
+2147,10103,ostomy supplies,Shipped
+2148,10114,ostomy supplies,Shipped
+2149,10126,ostomy supplies,Shipped
+2150,10140,ostomy supplies,Shipped
+2151,10151,ostomy supplies,Shipped
+2152,10164,ostomy supplies,Resolved
+2153,10175,ostomy supplies,Shipped
+2154,10184,ostomy supplies,Shipped
+2155,10194,ostomy supplies,Shipped
+2156,10207,ostomy supplies,Shipped
+2157,10217,ostomy supplies,Shipped
+2158,10229,ostomy supplies,Shipped
+2159,10245,ostomy supplies,Shipped
+2160,10259,ostomy supplies,Shipped
+2161,10270,ostomy supplies,Shipped
+2162,10281,ostomy supplies,Shipped
+2163,10291,ostomy supplies,Shipped
+2164,10305,ostomy supplies,Shipped
+2165,10313,ostomy supplies,Shipped
+2166,10324,ostomy supplies,Shipped
+2167,10335,ostomy supplies,Shipped
+2168,10348,ostomy supplies,Shipped
+2169,10358,ostomy supplies,Shipped
+2170,10371,ostomy supplies,Shipped
+2171,10382,ostomy supplies,Shipped
+2172,10411,ostomy supplies,Shipped
+2173,10425,ostomy supplies,In Process
+2174,10107,cgm systems,Shipped
+2175,10120,cgm systems,Shipped
+2176,10133,cgm systems,Shipped
+2177,10145,cgm systems,Shipped
+2178,10168,cgm systems,Shipped
+2179,10188,cgm systems,Shipped
+2180,10210,cgm systems,Shipped
+2181,10223,cgm systems,Shipped
+2182,10235,cgm systems,Shipped
+2183,10250,cgm systems,Shipped
+2184,10263,cgm systems,Shipped
+2185,10275,cgm systems,Shipped
+2186,10285,cgm systems,Shipped
+2187,10297,cgm systems,Shipped
+2188,10308,cgm systems,Shipped
+2189,10318,cgm systems,Shipped
+2190,10329,cgm systems,Shipped
+2191,10340,cgm systems,Shipped
+2192,10353,cgm systems,Shipped
+2193,10363,cgm systems,Shipped
+2194,10375,cgm systems,Shipped
+2195,10387,cgm systems,Shipped
+2196,10401,cgm systems,On Hold
+2197,10416,cgm systems,Shipped
+2198,10108,cgm systems,Shipped
+2199,10122,cgm systems,Shipped
+2200,10135,cgm systems,Shipped
+2201,10145,cgm systems,Shipped
+2202,10159,cgm systems,Shipped
+2203,10169,cgm systems,Shipped
+2204,10180,cgm systems,Shipped
+2205,10190,cgm systems,Shipped
+2206,10211,cgm systems,Shipped
+2207,10224,cgm systems,Shipped
+2208,10237,cgm systems,Shipped
+2209,10252,cgm systems,Shipped
+2210,10264,cgm systems,Shipped
+2211,10276,cgm systems,Shipped
+2212,10285,cgm systems,Shipped
+2213,10299,cgm systems,Shipped
+2214,10310,cgm systems,Shipped
+2215,10319,cgm systems,Shipped
+2216,10331,cgm systems,Shipped
+2217,10343,cgm systems,Shipped
+2218,10355,cgm systems,Shipped
+2219,10364,cgm systems,Shipped
+2220,10378,cgm systems,Shipped
+2221,10390,cgm systems,Shipped
+2222,10403,cgm systems,Shipped
+2223,10104,ostomy supplies,Shipped
+2224,10114,ostomy supplies,Shipped
+2225,10127,ostomy supplies,Shipped
+2226,10141,ostomy supplies,Shipped
+2227,10151,ostomy supplies,Shipped
+2228,10165,ostomy supplies,Shipped
+2229,10175,ostomy supplies,Shipped
+2230,10184,ostomy supplies,Shipped
+2231,10195,ostomy supplies,Shipped
+2232,10207,ostomy supplies,Shipped
+2233,10219,ostomy supplies,Shipped
+2234,10229,ostomy supplies,Shipped
+2235,10246,ostomy supplies,Shipped
+2236,10259,ostomy supplies,Shipped
+2237,10271,ostomy supplies,Shipped
+2238,10281,ostomy supplies,Shipped
+2239,10292,ostomy supplies,Shipped
+2240,10305,ostomy supplies,Shipped
+2241,10313,ostomy supplies,Shipped
+2242,10325,ostomy supplies,Shipped
+2243,10335,ostomy supplies,Shipped
+2244,10349,ostomy supplies,Shipped
+2245,10359,ostomy supplies,Shipped
+2246,10371,ostomy supplies,Shipped
+2247,10383,ostomy supplies,Shipped
+2248,10394,ostomy supplies,Shipped
+2249,10412,ostomy supplies,Shipped
+2250,10425,ostomy supplies,In Process
+2251,10104,urological supplies,Shipped
+2252,10116,urological supplies,Shipped
+2253,10127,urological supplies,Shipped
+2254,10142,urological supplies,Shipped
+2255,10152,urological supplies,Shipped
+2256,10165,urological supplies,Shipped
+2257,10176,urological supplies,Shipped
+2258,10184,urological supplies,Shipped
+2259,10195,urological supplies,Shipped
+2260,10207,urological supplies,Shipped
+2261,10220,urological supplies,Shipped
+2262,10230,urological supplies,Shipped
+2263,10247,urological supplies,Shipped
+2264,10272,urological supplies,Shipped
+2265,10282,urological supplies,Shipped
+2266,10292,urological supplies,Shipped
+2267,10306,urological supplies,Shipped
+2268,10314,urological supplies,Shipped
+2269,10325,urological supplies,Shipped
+2270,10336,urological supplies,Shipped
+2271,10350,urological supplies,Shipped
+2272,10359,urological supplies,Shipped
+2273,10371,urological supplies,Shipped
+2274,10383,urological supplies,Shipped
+2275,10394,urological supplies,Shipped
+2276,10413,urological supplies,Shipped
+2277,10103,ostomy supplies,Shipped
+2278,10113,ostomy supplies,Shipped
+2279,10126,ostomy supplies,Shipped
+2280,10140,ostomy supplies,Shipped
+2281,10150,ostomy supplies,Shipped
+2282,10164,ostomy supplies,Resolved
+2283,10175,ostomy supplies,Shipped
+2284,10183,ostomy supplies,Shipped
+2285,10194,ostomy supplies,Shipped
+2286,10206,ostomy supplies,Shipped
+2287,10217,ostomy supplies,Shipped
+2288,10229,ostomy supplies,Shipped
+2289,10245,ostomy supplies,Shipped
+2290,10258,ostomy supplies,Shipped
+2291,10270,ostomy supplies,Shipped
+2292,10281,ostomy supplies,Shipped
+2293,10291,ostomy supplies,Shipped
+2294,10304,ostomy supplies,Shipped
+2295,10313,ostomy supplies,Shipped
+2296,10324,ostomy supplies,Shipped
+2297,10333,ostomy supplies,Shipped
+2298,10348,ostomy supplies,Shipped
+2299,10358,ostomy supplies,Shipped
+2300,10370,ostomy supplies,Shipped
+2301,10382,ostomy supplies,Shipped
+2302,10411,ostomy supplies,Shipped
+2303,10424,ostomy supplies,In Process
+2304,10106,orthopedic supplies,Shipped
+2305,10120,orthopedic supplies,Shipped
+2306,10133,orthopedic supplies,Shipped
+2307,10144,orthopedic supplies,Shipped
+2308,10168,orthopedic supplies,Shipped
+2309,10210,orthopedic supplies,Shipped
+2310,10223,orthopedic supplies,Shipped
+2311,10235,orthopedic supplies,Shipped
+2312,10250,orthopedic supplies,Shipped
+2313,10262,orthopedic supplies,Cancelled
+2314,10275,orthopedic supplies,Shipped
+2315,10284,orthopedic supplies,Shipped
+2316,10297,orthopedic supplies,Shipped
+2317,10308,orthopedic supplies,Shipped
+2318,10316,orthopedic supplies,Shipped
+2319,10328,orthopedic supplies,Shipped
+2320,10340,orthopedic supplies,Shipped
+2321,10353,orthopedic supplies,Shipped
+2322,10361,orthopedic supplies,Shipped
+2323,10375,orthopedic supplies,Shipped
+2324,10388,orthopedic supplies,Shipped
+2325,10398,orthopedic supplies,Shipped
+2326,10401,orthopedic supplies,On Hold
+2327,10416,orthopedic supplies,Shipped
+2328,10108,cgm systems,Shipped
+2329,10121,cgm systems,Shipped
+2330,10135,cgm systems,Shipped
+2331,10145,cgm systems,Shipped
+2332,10159,cgm systems,Shipped
+2333,10169,cgm systems,Shipped
+2334,10180,cgm systems,Shipped
+2335,10190,cgm systems,Shipped
+2336,10211,cgm systems,Shipped
+2337,10224,cgm systems,Shipped
+2338,10237,cgm systems,Shipped
+2339,10252,cgm systems,Shipped
+2340,10264,cgm systems,Shipped
+2341,10276,cgm systems,Shipped
+2342,10285,cgm systems,Shipped
+2343,10299,cgm systems,Shipped
+2344,10309,cgm systems,Shipped
+2345,10319,cgm systems,Shipped
+2346,10331,cgm systems,Shipped
+2347,10341,cgm systems,Shipped
+2348,10355,cgm systems,Shipped
+2349,10365,cgm systems,Shipped
+2350,10375,cgm systems,Shipped
+2351,10390,cgm systems,Shipped
+2352,10403,cgm systems,Shipped
+2353,10106,orthopedic supplies,Shipped
+2354,10120,orthopedic supplies,Shipped
+2355,10133,orthopedic supplies,Shipped
+2356,10143,orthopedic supplies,Shipped
+2357,10156,orthopedic supplies,Shipped
+2358,10168,orthopedic supplies,Shipped
+2359,10199,orthopedic supplies,Shipped
+2360,10210,orthopedic supplies,Shipped
+2361,10223,orthopedic supplies,Shipped
+2362,10235,orthopedic supplies,Shipped
+2363,10250,orthopedic supplies,Shipped
+2364,10262,orthopedic supplies,Cancelled
+2365,10275,orthopedic supplies,Shipped
+2366,10284,orthopedic supplies,Shipped
+2367,10296,orthopedic supplies,Shipped
+2368,10308,orthopedic supplies,Shipped
+2369,10316,orthopedic supplies,Shipped
+2370,10328,orthopedic supplies,Shipped
+2371,10340,orthopedic supplies,Shipped
+2372,10353,orthopedic supplies,Shipped
+2373,10361,orthopedic supplies,Shipped
+2374,10375,orthopedic supplies,Shipped
+2375,10388,orthopedic supplies,Shipped
+2376,10398,orthopedic supplies,Shipped
+2377,10401,orthopedic supplies,On Hold
+2378,10416,orthopedic supplies,Shipped
+2379,10104,ostomy supplies,Shipped
+2380,10115,ostomy supplies,Shipped
+2381,10127,ostomy supplies,Shipped
+2382,10141,ostomy supplies,Shipped
+2383,10151,ostomy supplies,Shipped
+2384,10165,ostomy supplies,Shipped
+2385,10176,ostomy supplies,Shipped
+2386,10184,ostomy supplies,Shipped
+2387,10195,ostomy supplies,Shipped
+2388,10207,ostomy supplies,Shipped
+2389,10220,ostomy supplies,Shipped
+2390,10230,ostomy supplies,Shipped
+2391,10246,ostomy supplies,Shipped
+2392,10259,ostomy supplies,Shipped
+2393,10271,ostomy supplies,Shipped
+2394,10282,ostomy supplies,Shipped
+2395,10292,ostomy supplies,Shipped
+2396,10305,ostomy supplies,Shipped
+2397,10314,ostomy supplies,Shipped
+2398,10325,ostomy supplies,Shipped
+2399,10336,ostomy supplies,Shipped
+2400,10350,ostomy supplies,Shipped
+2401,10359,ostomy supplies,Shipped
+2402,10371,ostomy supplies,Shipped
+2403,10383,ostomy supplies,Shipped
+2404,10395,ostomy supplies,Shipped
+2405,10412,ostomy supplies,Shipped
+2406,10425,ostomy supplies,In Process
+2407,10104,urological supplies,Shipped
+2408,10117,urological supplies,Shipped
+2409,10127,urological supplies,Shipped
+2410,10142,urological supplies,Shipped
+2411,10153,urological supplies,Shipped
+2412,10165,urological supplies,Shipped
+2413,10176,urological supplies,Shipped
+2414,10185,urological supplies,Shipped
+2415,10196,urological supplies,Shipped
+2416,10208,urological supplies,Shipped
+2417,10220,urological supplies,Shipped
+2418,10230,urological supplies,Shipped
+2419,10247,urological supplies,Shipped
+2420,10272,urological supplies,Shipped
+2421,10282,urological supplies,Shipped
+2422,10292,urological supplies,Shipped
+2423,10306,urological supplies,Shipped
+2424,10314,urological supplies,Shipped
+2425,10325,urological supplies,Shipped
+2426,10337,urological supplies,Shipped
+2427,10350,urological supplies,Shipped
+2428,10359,urological supplies,Shipped
+2429,10372,urological supplies,Shipped
+2430,10383,urological supplies,Shipped
+2431,10395,urological supplies,Shipped
+2432,10413,urological supplies,Shipped
+2433,10108,cgm systems,Shipped
+2434,10121,cgm systems,Shipped
+2435,10135,cgm systems,Shipped
+2436,10145,cgm systems,Shipped
+2437,10159,cgm systems,Shipped
+2438,10169,cgm systems,Shipped
+2439,10180,cgm systems,Shipped
+2440,10190,cgm systems,Shipped
+2441,10211,cgm systems,Shipped
+2442,10224,cgm systems,Shipped
+2443,10237,cgm systems,Shipped
+2444,10252,cgm systems,Shipped
+2445,10264,cgm systems,Shipped
+2446,10276,cgm systems,Shipped
+2447,10285,cgm systems,Shipped
+2448,10299,cgm systems,Shipped
+2449,10309,cgm systems,Shipped
+2450,10319,cgm systems,Shipped
+2451,10331,cgm systems,Shipped
+2452,10341,cgm systems,Shipped
+2453,10356,cgm systems,Shipped
+2454,10365,cgm systems,Shipped
+2455,10375,cgm systems,Shipped
+2456,10390,cgm systems,Shipped
+2457,10403,cgm systems,Shipped
+2458,10105,wound care supplies,Shipped
+2459,10119,wound care supplies,Shipped
+2460,10129,wound care supplies,Shipped
+2461,10142,wound care supplies,Shipped
+2462,10153,wound care supplies,Shipped
+2463,10167,wound care supplies,Cancelled
+2464,10177,wound care supplies,Shipped
+2465,10185,wound care supplies,Shipped
+2466,10197,wound care supplies,Shipped
+2467,10208,wound care supplies,Shipped
+2468,10222,wound care supplies,Shipped
+2469,10233,wound care supplies,Shipped
+2470,10248,wound care supplies,Cancelled
+2471,10261,wound care supplies,Shipped
+2472,10273,wound care supplies,Shipped
+2473,10283,wound care supplies,Shipped
+2474,10295,wound care supplies,Shipped
+2475,10306,wound care supplies,Shipped
+2476,10315,wound care supplies,Shipped
+2477,10326,wound care supplies,Shipped
+2478,10339,wound care supplies,Shipped
+2479,10350,wound care supplies,Shipped
+2480,10373,wound care supplies,Shipped
+2481,10385,wound care supplies,Shipped
+2482,10396,wound care supplies,Shipped
+2483,10414,wound care supplies,On Hold
+2484,10106,diabetes testing kit,Shipped
+2485,10120,diabetes testing kit,Shipped
+2486,10133,diabetes testing kit,Shipped
+2487,10143,diabetes testing kit,Shipped
+2488,10156,diabetes testing kit,Shipped
+2489,10168,diabetes testing kit,Shipped
+2490,10199,diabetes testing kit,Shipped
+2491,10210,diabetes testing kit,Shipped
+2492,10223,diabetes testing kit,Shipped
+2493,10235,diabetes testing kit,Shipped
+2494,10250,diabetes testing kit,Shipped
+2495,10262,diabetes testing kit,Cancelled
+2496,10275,diabetes testing kit,Shipped
+2497,10284,diabetes testing kit,Shipped
+2498,10296,diabetes testing kit,Shipped
+2499,10308,diabetes testing kit,Shipped
+2500,10316,diabetes testing kit,Shipped
+2501,10328,diabetes testing kit,Shipped
+2502,10340,diabetes testing kit,Shipped
+2503,10353,diabetes testing kit,Shipped
+2504,10361,diabetes testing kit,Shipped
+2505,10375,diabetes testing kit,Shipped
+2506,10388,diabetes testing kit,Shipped
+2507,10398,diabetes testing kit,Shipped
+2508,10401,diabetes testing kit,On Hold
+2509,10416,diabetes testing kit,Shipped
+2510,10105,wound care supplies,Shipped
+2511,10117,wound care supplies,Shipped
+2512,10128,wound care supplies,Shipped
+2513,10142,wound care supplies,Shipped
+2514,10153,wound care supplies,Shipped
+2515,10166,wound care supplies,Shipped
+2516,10177,wound care supplies,Shipped
+2517,10185,wound care supplies,Shipped
+2518,10196,wound care supplies,Shipped
+2519,10208,wound care supplies,Shipped
+2520,10221,wound care supplies,Shipped
+2521,10232,wound care supplies,Shipped
+2522,10248,wound care supplies,Cancelled
+2523,10273,wound care supplies,Shipped
+2524,10282,wound care supplies,Shipped
+2525,10293,wound care supplies,Shipped
+2526,10306,wound care supplies,Shipped
+2527,10314,wound care supplies,Shipped
+2528,10327,wound care supplies,Resolved
+2529,10337,wound care supplies,Shipped
+2530,10350,wound care supplies,Shipped
+2531,10372,wound care supplies,Shipped
+2532,10384,wound care supplies,Shipped
+2533,10397,wound care supplies,Shipped
+2534,10414,wound care supplies,On Hold
+2535,10106,wound care supplies,Shipped
+2536,10119,wound care supplies,Shipped
+2537,10131,wound care supplies,Shipped
+2538,10143,wound care supplies,Shipped
+2539,10155,wound care supplies,Shipped
+2540,10167,wound care supplies,Cancelled
+2541,10178,wound care supplies,Shipped
+2542,10186,wound care supplies,Shipped
+2543,10197,wound care supplies,Shipped
+2544,10209,wound care supplies,Shipped
+2545,10222,wound care supplies,Shipped
+2546,10249,wound care supplies,Shipped
+2547,10262,wound care supplies,Cancelled
+2548,10274,wound care supplies,Shipped
+2549,10283,wound care supplies,Shipped
+2550,10296,wound care supplies,Shipped
+2551,10307,wound care supplies,Shipped
+2552,10316,wound care supplies,Shipped
+2553,10328,wound care supplies,Shipped
+2554,10339,wound care supplies,Shipped
+2555,10352,wound care supplies,Shipped
+2556,10361,wound care supplies,Shipped
+2557,10373,wound care supplies,Shipped
+2558,10386,wound care supplies,Resolved
+2559,10398,wound care supplies,Shipped
+2560,10400,wound care supplies,Shipped
+2561,10415,wound care supplies,Disputed
+2562,10106,diabetes testing kit,Shipped
+2563,10120,diabetes testing kit,Shipped
+2564,10131,diabetes testing kit,Shipped
+2565,10143,diabetes testing kit,Shipped
+2566,10155,diabetes testing kit,Shipped
+2567,10168,diabetes testing kit,Shipped
+2568,10178,diabetes testing kit,Shipped
+2569,10198,diabetes testing kit,Shipped
+2570,10210,diabetes testing kit,Shipped
+2571,10222,diabetes testing kit,Shipped
+2572,10235,diabetes testing kit,Shipped
+2573,10250,diabetes testing kit,Shipped
+2574,10262,diabetes testing kit,Cancelled
+2575,10275,diabetes testing kit,Shipped
+2576,10284,diabetes testing kit,Shipped
+2577,10296,diabetes testing kit,Shipped
+2578,10308,diabetes testing kit,Shipped
+2579,10316,diabetes testing kit,Shipped
+2580,10328,diabetes testing kit,Shipped
+2581,10340,diabetes testing kit,Shipped
+2582,10352,diabetes testing kit,Shipped
+2583,10361,diabetes testing kit,Shipped
+2584,10375,diabetes testing kit,Shipped
+2585,10386,diabetes testing kit,Resolved
+2586,10398,diabetes testing kit,Shipped
+2587,10401,diabetes testing kit,On Hold
+2588,10416,diabetes testing kit,Shipped
+2589,10105,wound care supplies,Shipped
+2590,10119,wound care supplies,Shipped
+2591,10129,wound care supplies,Shipped
+2592,10143,wound care supplies,Shipped
+2593,10154,wound care supplies,Shipped
+2594,10167,wound care supplies,Cancelled
+2595,10177,wound care supplies,Shipped
+2596,10185,wound care supplies,Shipped
+2597,10197,wound care supplies,Shipped
+2598,10208,wound care supplies,Shipped
+2599,10222,wound care supplies,Shipped
+2600,10233,wound care supplies,Shipped
+2601,10248,wound care supplies,Cancelled
+2602,10261,wound care supplies,Shipped
+2603,10273,wound care supplies,Shipped
+2604,10283,wound care supplies,Shipped
+2605,10295,wound care supplies,Shipped
+2606,10306,wound care supplies,Shipped
+2607,10316,wound care supplies,Shipped
+2608,10327,wound care supplies,Resolved
+2609,10339,wound care supplies,Shipped
+2610,10350,wound care supplies,Shipped
+2611,10373,wound care supplies,Shipped
+2612,10386,wound care supplies,Resolved
+2613,10397,wound care supplies,Shipped
+2614,10414,wound care supplies,On Hold
+2615,10103,wound care supplies,Shipped
+2616,10114,wound care supplies,Shipped
+2617,10126,wound care supplies,Shipped
+2618,10140,wound care supplies,Shipped
+2619,10150,wound care supplies,Shipped
+2620,10164,wound care supplies,Resolved
+2621,10175,wound care supplies,Shipped
+2622,10183,wound care supplies,Shipped
+2623,10194,wound care supplies,Shipped
+2624,10206,wound care supplies,Shipped
+2625,10217,wound care supplies,Shipped
+2626,10229,wound care supplies,Shipped
+2627,10245,wound care supplies,Shipped
+2628,10258,wound care supplies,Shipped
+2629,10270,wound care supplies,Shipped
+2630,10281,wound care supplies,Shipped
+2631,10291,wound care supplies,Shipped
+2632,10304,wound care supplies,Shipped
+2633,10313,wound care supplies,Shipped
+2634,10324,wound care supplies,Shipped
+2635,10336,wound care supplies,Shipped
+2636,10348,wound care supplies,Shipped
+2637,10358,wound care supplies,Shipped
+2638,10371,wound care supplies,Shipped
+2639,10382,wound care supplies,Shipped
+2640,10411,wound care supplies,Shipped
+2641,10424,wound care supplies,In Process
+2642,10106,diabetes testing kit,Shipped
+2643,10120,diabetes testing kit,Shipped
+2644,10133,diabetes testing kit,Shipped
+2645,10145,diabetes testing kit,Shipped
+2646,10168,diabetes testing kit,Shipped
+2647,10188,diabetes testing kit,Shipped
+2648,10210,diabetes testing kit,Shipped
+2649,10223,diabetes testing kit,Shipped
+2650,10235,diabetes testing kit,Shipped
+2651,10250,diabetes testing kit,Shipped
+2652,10263,diabetes testing kit,Shipped
+2653,10275,diabetes testing kit,Shipped
+2654,10285,diabetes testing kit,Shipped
+2655,10297,diabetes testing kit,Shipped
+2656,10308,diabetes testing kit,Shipped
+2657,10318,diabetes testing kit,Shipped
+2658,10328,diabetes testing kit,Shipped
+2659,10340,diabetes testing kit,Shipped
+2660,10353,diabetes testing kit,Shipped
+2661,10361,diabetes testing kit,Shipped
+2662,10375,diabetes testing kit,Shipped
+2663,10388,diabetes testing kit,Shipped
+2664,10398,diabetes testing kit,Shipped
+2665,10401,diabetes testing kit,On Hold
+2666,10416,diabetes testing kit,Shipped
+2667,10106,diabetes testing kit,Shipped
+2668,10120,diabetes testing kit,Shipped
+2669,10143,diabetes testing kit,Shipped
+2670,10155,diabetes testing kit,Shipped
+2671,10168,diabetes testing kit,Shipped
+2672,10199,diabetes testing kit,Shipped
+2673,10210,diabetes testing kit,Shipped
+2674,10223,diabetes testing kit,Shipped
+2675,10235,diabetes testing kit,Shipped
+2676,10250,diabetes testing kit,Shipped
+2677,10262,diabetes testing kit,Cancelled
+2678,10275,diabetes testing kit,Shipped
+2679,10284,diabetes testing kit,Shipped
+2680,10296,diabetes testing kit,Shipped
+2681,10308,diabetes testing kit,Shipped
+2682,10316,diabetes testing kit,Shipped
+2683,10328,diabetes testing kit,Shipped
+2684,10341,diabetes testing kit,Shipped
+2685,10353,diabetes testing kit,Shipped
+2686,10361,diabetes testing kit,Shipped
+2687,10375,diabetes testing kit,Shipped
+2688,10386,diabetes testing kit,Resolved
+2689,10398,diabetes testing kit,Shipped
+2690,10401,diabetes testing kit,On Hold
+2691,10416,diabetes testing kit,Shipped
+2692,10105,wound care supplies,Shipped
+2693,10118,wound care supplies,Shipped
+2694,10129,wound care supplies,Shipped
+2695,10142,wound care supplies,Shipped
+2696,10153,wound care supplies,Shipped
+2697,10167,wound care supplies,Cancelled
+2698,10177,wound care supplies,Shipped
+2699,10185,wound care supplies,Shipped
+2700,10197,wound care supplies,Shipped
+2701,10208,wound care supplies,Shipped
+2702,10222,wound care supplies,Shipped
+2703,10232,wound care supplies,Shipped
+2704,10248,wound care supplies,Cancelled
+2705,10261,wound care supplies,Shipped
+2706,10273,wound care supplies,Shipped
+2707,10283,wound care supplies,Shipped
+2708,10295,wound care supplies,Shipped
+2709,10306,wound care supplies,Shipped
+2710,10315,wound care supplies,Shipped
+2711,10327,wound care supplies,Resolved
+2712,10337,wound care supplies,Shipped
+2713,10350,wound care supplies,Shipped
+2714,10373,wound care supplies,Shipped
+2715,10386,wound care supplies,Resolved
+2716,10397,wound care supplies,Shipped
+2717,10414,wound care supplies,On Hold
+2718,10105,wound care supplies,Shipped
+2719,10117,wound care supplies,Shipped
+2720,10129,wound care supplies,Shipped
+2721,10142,wound care supplies,Shipped
+2722,10153,wound care supplies,Shipped
+2723,10167,wound care supplies,Cancelled
+2724,10177,wound care supplies,Shipped
+2725,10185,wound care supplies,Shipped
+2726,10197,wound care supplies,Shipped
+2727,10208,wound care supplies,Shipped
+2728,10222,wound care supplies,Shipped
+2729,10232,wound care supplies,Shipped
+2730,10248,wound care supplies,Cancelled
+2731,10261,wound care supplies,Shipped
+2732,10273,wound care supplies,Shipped
+2733,10283,wound care supplies,Shipped
+2734,10294,wound care supplies,Shipped
+2735,10306,wound care supplies,Shipped
+2736,10315,wound care supplies,Shipped
+2737,10327,wound care supplies,Resolved
+2738,10337,wound care supplies,Shipped
+2739,10350,wound care supplies,Shipped
+2740,10373,wound care supplies,Shipped
+2741,10386,wound care supplies,Resolved
+2742,10397,wound care supplies,Shipped
+2743,10414,wound care supplies,On Hold
+2744,10106,diabetes testing kit,Shipped
+2745,10119,diabetes testing kit,Shipped
+2746,10131,diabetes testing kit,Shipped
+2747,10143,diabetes testing kit,Shipped
+2748,10155,diabetes testing kit,Shipped
+2749,10168,diabetes testing kit,Shipped
+2750,10178,diabetes testing kit,Shipped
+2751,10198,diabetes testing kit,Shipped
+2752,10210,diabetes testing kit,Shipped
+2753,10222,diabetes testing kit,Shipped
+2754,10235,diabetes testing kit,Shipped
+2755,10250,diabetes testing kit,Shipped
+2756,10262,diabetes testing kit,Cancelled
+2757,10275,diabetes testing kit,Shipped
+2758,10284,diabetes testing kit,Shipped
+2759,10296,diabetes testing kit,Shipped
+2760,10308,diabetes testing kit,Shipped
+2761,10316,diabetes testing kit,Shipped
+2762,10328,diabetes testing kit,Shipped
+2763,10339,diabetes testing kit,Shipped
+2764,10352,diabetes testing kit,Shipped
+2765,10361,diabetes testing kit,Shipped
+2766,10373,diabetes testing kit,Shipped
+2767,10386,diabetes testing kit,Resolved
+2768,10398,diabetes testing kit,Shipped
+2769,10401,diabetes testing kit,On Hold
+2770,10416,diabetes testing kit,Shipped
+2771,10106,diabetes testing kit,Shipped
+2772,10119,diabetes testing kit,Shipped
+2773,10131,diabetes testing kit,Shipped
+2774,10143,diabetes testing kit,Shipped
+2775,10155,diabetes testing kit,Shipped
+2776,10167,diabetes testing kit,Cancelled
+2777,10178,diabetes testing kit,Shipped
+2778,10186,diabetes testing kit,Shipped
+2779,10197,diabetes testing kit,Shipped
+2780,10209,diabetes testing kit,Shipped
+2781,10222,diabetes testing kit,Shipped
+2782,10249,diabetes testing kit,Shipped
+2783,10262,diabetes testing kit,Cancelled
+2784,10274,diabetes testing kit,Shipped
+2785,10283,diabetes testing kit,Shipped
+2786,10296,diabetes testing kit,Shipped
+2787,10307,diabetes testing kit,Shipped
+2788,10316,diabetes testing kit,Shipped
+2789,10329,diabetes testing kit,Shipped
+2790,10339,diabetes testing kit,Shipped
+2791,10352,diabetes testing kit,Shipped
+2792,10361,diabetes testing kit,Shipped
+2793,10373,diabetes testing kit,Shipped
+2794,10386,diabetes testing kit,Resolved
+2795,10398,diabetes testing kit,Shipped
+2796,10400,diabetes testing kit,Shipped
+2797,10415,diabetes testing kit,Disputed
+2798,10105,wound care supplies,Shipped
+2799,10117,wound care supplies,Shipped
+2800,10129,wound care supplies,Shipped
+2801,10142,wound care supplies,Shipped
+2802,10153,wound care supplies,Shipped
+2803,10167,wound care supplies,Cancelled
+2804,10177,wound care supplies,Shipped
+2805,10185,wound care supplies,Shipped
+2806,10197,wound care supplies,Shipped
+2807,10208,wound care supplies,Shipped
+2808,10222,wound care supplies,Shipped
+2809,10232,wound care supplies,Shipped
+2810,10248,wound care supplies,Cancelled
+2811,10261,wound care supplies,Shipped
+2812,10273,wound care supplies,Shipped
+2813,10283,wound care supplies,Shipped
+2814,10293,wound care supplies,Shipped
+2815,10306,wound care supplies,Shipped
+2816,10315,wound care supplies,Shipped
+2817,10327,wound care supplies,Resolved
+2818,10337,wound care supplies,Shipped
+2819,10350,wound care supplies,Shipped
+2820,10373,wound care supplies,Shipped
+2821,10386,wound care supplies,Resolved
+2822,10397,wound care supplies,Shipped
+2823,10414,wound care supplies,On Hold
